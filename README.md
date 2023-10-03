@@ -1,7 +1,7 @@
 # TrafficFatality
 
 ## Description
-
+This project combines data from NASA and the city of Austin to determine relationships between moon phases, the day of the week, and traffic fatalities.
 
 ## Goals
 The goal of this project is to determine relationships between the moon phases, days of the week and traffic fatalities in Austin, Texas.
@@ -33,3 +33,4 @@ Austin Traffic Fatalities contains 2012 to 2019 data on location, date, time, an
 
 ## References
 + data.austintexas.gov
++ https://svs.gsfc.nasa.gov/4442
