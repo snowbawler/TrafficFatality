@@ -1,0 +1,534 @@
+Type,Fatal Crash Number,Number of Fatalities,Case Number,Location,Date,Month,Day,Hour,Time,Killed driver pass,Speeding,Ran Red Light or Stop Sign,DL Status incident,Suspected Impairment,Type of road
+Pedestrian,1,1,19-0150158,10500 N IH 35 SB,1/15/2019,Jan,Tue,6,6:19:00,n/a,FALSE,FALSE,ok,ped,IH35
+Motor Vehicle,2,1,19-0161105,W William Cannon Dr / Ridge Oak Rd,1/16/2019,Jan,Wed,15,15:42:00,driver,FALSE,TRUE,ok,none,Local Street
+Pedestrian,3,1,19-0081623,3600 Block S Capital of Texas HWY SB,1/8/2019,Jan,Tue,21,21:37:00,n/a,FALSE,FALSE,no dl,none,Other Highway
+Pedestrian,4,1,19-0260086,6900 N IH 35 SB,1/26/2019,Jan,Sat,1,1:03:00,n/a,FALSE,FALSE,ok,ped,IH35
+Pedestrian,5,1,19-0320079,N IH 35 SVRD SB / E 6th St,2/1/2019,Feb,Fri,0,0:52:00,n/a,FALSE,FALSE,ok,ped,Local Street
+Motorcycle,6,1,19-0370320,1000 W Oltorf,2/6/2019,Feb,Wed,7,7:01:00,driver,FALSE,FALSE,ok,none,Local Street
+Motor vehicle,7,1,19-0400694,6000 Block Springdale Rd,2/9/2019,Feb,Sat,12,12:48:00,passenger,TRUE,FALSE,suspended,none,local street
+pedestrian,8,1,19-0521569,8140 N Lamar Blvd SB,2/21/2019,Feb,Thu,20,20:30:00,n/a,,FALSE,unk,none,high use road
+pedestrian,9,1,19-0521894,7300 E Riverside Dr,2/21/2019,Feb,Thu,23,23:57:00,n/a,FALSE,FALSE,ok,ped,high use road
+Motor vehicle,10,1,19-0581824,Springdale / E 7th St,2/27/2019,Feb,Wed,22,22:25:00,driver,TRUE,TRUE,suspended,driver,Local Street
+bicycle,11,1,19-0871796,1300 E Martin Luther King Jr Blvd,3/28/2019,Mar,Thu,22,22:11:00,n/a,FALSE,FALSE,ok,bicyclist,high use road
+pedestrian,12,1,19-0881844,7300 S Congress Ave,3/29/2019,Mar,Fri,20,20:18:00,n/a,FALSE,FALSE,suspended,ped,high use road
+pedestrian,13,1,19-0761827,30 blk N IH 35 NB,3/17/2019,Mar,Sun,21,21:31:00,n/a,FALSE,FALSE,no dl,none,IH35
+Motor Vehicle,14,1,19-0800389,2300 Teri Ln,3/21/2019,Mar,Thu,7,7:40:00,passenger,FALSE,FALSE,no DL,unknown,Local Street
+Motor Vehicle,15,2,19-0921776,500 E Slaughter Ln,4/2/2019,Apr,Tue,22,22:01:00,both,FALSE,FALSE,ok,none,high use road
+Motor Vehicle,16,1,19-0961200,14225 N SH W EB #14027,4/6/2019,Apr,Sat,15,15:26:00,driver,FALSE,FALSE,ok,none,Other Highway
+Motor Vehicle,17,1,19-0930132,E Wells Branch Pkwy / S Heatherwilde Blvd,4/3/2019,Apr,Wed,2,2:39:00,driver,TRUE,TRUE,ok,driver,Local Street
+Pedestrian,18,1,19-1070052,E Stassney / S Congress Ave,4/17/2019,Apr,Wed,1,1:41:00,n/a,FALSE,FALSE,ok,ped,high use road
+Motor Vehicle,19,1,19-1070614,Jollyville Rd / Balcones Woods Rd,4/17/2019,Apr,Wed,10,10:22:00,driver,TRUE,FALSE,ok,none,high use road
+Motor Vehicle,20,1,19-1080319,8000 block W US 290 HWY,4/18/2019,Apr,Thu,6,6:53:00,driver,FALSE,FALSE,no dl,driver,Other Highway
+Motor Vehicle,21,1,19-1080673,S FM 973 Rd / Pearce LN,4/18/2019,Apr,Thu,10,10:15:00,driver,FALSE,TRUE,suspended,none,high use road
+pedestrian,22,1,19-1110655,5600 N IH 35 SB,4/21/2019,Apr,Sun,10,10:38:00,n/a,FALSE,FALSE,ok,none,IH35
+Motor Vehicle,23,1,19-1040737,11200 N MOPAC EXPY SB,4/14/2019,Apr,Sun,11,11:06:00,driver,FALSE,FALSE,ok,none,Other Highway
+Motor Vehicle,24,1,19-1161832,8200 RESEARCH BLVD SVRD SB,4/26/2019,Apr,Fri,20,20:08:00,driver,TRUE,TRUE,no dl,none,Other Highway
+pedestrian,25,1,19-1220286,8700 N Lamar Blvd,5/2/2019,May,Thu,6,6:09:00,n/a,FALSE,FALSE,unk,ped,high use road
+pedestrian,26,1,19-1270134,100 N IH 35 SB,5/7/2019,May,Tue,2,2:54:00,n/a,FALSE,FALSE,ok,ped,IH35
+Motor Vehicle,27,1,19-1320369,11000-11400 N IH 35 NB,5/12/2019,May,Sun,3,3:50:00,driver,FALSE,FALSE,no DL,driver,IH35
+Motor Vehicle,28,1,19-1320666,1000 Block S Mopac Expwy NB,5/12/2019,May,Sun,9,9:58:00,driver,,FALSE,no DL,driver,Other Highway
+Motor Vehicle,29,1,19-1321936,12100 N IH 35 SVRD NB,5/12/2019,May,Sun,23,23:35:00,driver,TRUE,FALSE,no dl,driver,IH35
+Motor Vehicle,30,1,19-1380171,Oak Springs / Airport,5/18/2019,May,Sat,1,1:58:00,driver,FALSE,FALSE,no dl,driver,high use road
+Pedestrian,31,1,19-1381928,15100 N IH 35 NB,5/18/2019,May,Sat,22,22:54:00,n/a,FALSE,FALSE,ok,none,IH35
+Motor Vehicle,32,1,19-1390962,2700 S Congress Ave,5/19/2019,May,Sun,13,13:15:00,driver,TRUE,FALSE,suspended,driver,high use road
+Motor Vehicle,33,1,19-1521857,Morrow St / N Lamar Blvd,6/1/2019,Jun,Sat,22,22:20:00,passenger,,FALSE,no dl,driver,high use road
+Motor Vehicle,34,1,19-1530277,Bundyhill Dr / E Martin Luther King Jr Blvd,6/2/2019,Jun,Sun,2,2:48:00,driver,FALSE,TRUE,suspended,driver,Local Street
+Pedestrian,35,1,19-1540252,12000-12520 S IH 35 SB,6/3/2019,Jun,Mon,5,5:39:00,n/a,FALSE,FALSE,ok,ped,IH35
+Motor Vehicle,36,1,19-1590874,8800 N Capital of Texas Hwy SB,6/8/2019,Jun,Sat,12,12:28:00,driver,TRUE,FALSE,no dl,driver,Other Highway
+Motorcycle,37,1,19-1611200,400 E Oltorf,6/10/2019,Jun,Mon,3,15:53:00,driver,FALSE,FALSE,no dl,none,Local Street
+Motorcycle,38,1,19-1801699,Webbervile / Springdale,6/29/2019,Jun,Sat,20,20:43:00,driver,TRUE,FALSE,ok,driver,Local Street
+Motor Vehicle,39,1,19-1880028,4604 E Ben White Blvd WB,7/7/2019,Jul,Sun,0,0:15:00,passenger,FALSE,FALSE,suspended,none,Other Highway
+Pedestrian,40,1,19-1950368,200 N IH 35 SB,7/14/2019,Jul,Sun,4,4:20:00,n/a,FALSE,FALSE,ok,none,IH35
+Motorcycle,41,1,19-2031962,11000 Blk FM 2222,7/22/2019,Jul,Mon,11,11:12:00,driver,TRUE,FALSE,no DL,driver,high use road
+Pedestrian,42,1,19-2050100,1500 S IH 35 NB,7/24/2019,Jul,Wed,1,1:28:00,n/a,FALSE,FALSE,ok,ped,IH 35
+Pedestrian,43,1,19-2080141,8200 Block N IH 35 SB,7/27/2019,Jul,Sat,1,1:37:00,n/a,FALSE,FALSE,ok,ped,IH 35
+Pedestrian,44,1,19-2090230,8801 Cameron Rd,7/28/2019,Jul,Sun,2,2:37:00,n/a,FALSE,FALSE,suspended,ped,high use road
+Pedestrian,45,1,19-2061923,5700 S Congress Ave,7/25/2019,Jul,Thu,22,22:33:00,n/a,FALSE,FALSE,ok,none,high use road
+Pedestrian,46,1,19-2160076,W William Cannon Dr / W US 290 HWY,8/4/2019,Aug,Sun,2,2:44:00,n/a,FALSE,FALSE,ok,ped,Other Highway
+Motorcycle,47,1,19-2191570,6600 Blk E Howard Ln,8/7/2019,Aug,Wed,19,19:25:00,driver,FALSE,FALSE,ok,driver,Local Street
+Pedestrian,48,1,19-2241378,1800 Block W Parmer Ln,8/12/2019,Aug,Mon,17,17:09:00,n/a,FALSE,FALSE,ok,ped,high use road
+Motor vehicle,49,1,19-2280292,3505 Montopolis Dr,8/16/2019,Aug,Fri,3,3:00:00,passenger,TRUE,FALSE,no dl,none,Local Street
+Motorcycle,50,2,19-2291933,5700-5703 Mount Bonnell Rd,8/17/2019,Aug,Sat,22,22:21:00,both,,FALSE,no dl,driver,high use road
+Motor Vehicle,51,1,19-2311712,515 E Slaughter Ln,8/19/2019,Aug,Mon,23,23:55:00,driver,FALSE,FALSE,ok,driver,high use road
+bicycle,52,1,19-2351073,4242 S IH 35 SVRD SB #4108,8/23/2019,Aug,Fri,12,12:59:00,n/a,FALSE,FALSE,ok,bicyclist,high use road
+Motor Vehicle,53,1,19-2440191,10214 N IH 35 SVRD SB,9/1/2019,Sep,Sun,1,1:49:00,Driver,TRUE,FALSE,ok,driver,I35
+Motorcycle,54,1,19-2440444,9200 Block Metric Blvd,9/1/2019,Sep,Sun,5,5:17:00,Driver,FALSE,FALSE,ok,driver,Local Street
+Pedestrian,55,1,19-2450248,1600 N IH 35 SB,9/2/2019,Sep,Mon,3,3:09:00,n/a,FALSE,FALSE,ok,ped,I35
+Pedestrian,56,1,19-2500231,6500 N IH 35 SB,9/7/2019,Sep,Sat,2,2:20:00,n/a,FALSE,FALSE,ok,ped,I35
+Pedestrian,57,1,19-2540094,12400 N IH 35 NB,9/11/2019,Sep,Wed,1,1:40:00,n/a,FALSE,FALSE,ok,ped,I35
+Motorcycle,58,1,19-2540190,7600 E US290 HWY WB,9/11/2019,Sep,Wed,4,4:37:00,driver,FALSE,FALSE,suspended,driver,Other Highway
+Motorcycle,59,1,19-2560573,10100 E US 290 HWY SVRD WB,9/13/2019,Sep,Fri,8,8:42:00,driver,FALSE,FALSE,ok,none,Other Highway
+Pedestrian,60,1,19-2661710,9000 S Congress Ave,9/23/2019,Sep,Mon,20,20:00:00,n/a,FALSE,FALSE,ok,driver,high use road
+Motor Vehicle,61,1,19-2700846,E Parmer / Dessau Rd,9/27/2019,Sep,Fri,11,11:27:00,driver,TRUE,TRUE,suspended,none,high use road
+Pedestrian,62,1,19-2711895,421 E Yager Ln,9/28/2019,Sep,Sat,22,22:12:00,n/a,FALSE,FALSE,unk,none,Local Street
+Motor Vehicle,63,1,19-2732043,7400 S IH 35 SB,9/30/2019,Sep,Mon,23,23:58:00,driver,FALSE,FALSE,ok,none,I35
+Pedestrian,64,1,19-2761969,7213 Cameron,10/3/2019,Oct,Thu,22,22:39:00,n/a,FALSE,FALSE,ok,ped,high use road
+Motor Vehicle,65,1,19-2650413,9900 S IH 35 NB,9/22/2019,Sep,Sun,3,3:56:00,driver,FALSE,FALSE,no dl,driver,I35
+Pedestrian,66,1,19-2861035,1000 W Willian Cannon,10/13/2019,Oct,Sun,15,15:32:00,n/a,FALSE,FALSE,Ok,none,high use road
+Motor Vehicle,67,1,19-2830834,E Stassney LN / S IH 35 SVRD NB,10/17/2019,Oct,Thu,9,9:55:00,passenger,FALSE,TRUE,Ok,none,high use road
+Motor Vehicle,68,1,19-2990061,9700 N IH 35 NB,10/26/2019,Oct,Sat,0,0:23:00,Driver,,FALSE,ok,driver,Other Highway
+Motor Vehicle,69,1,19-3000691,10700 Burnet Rd.,10/27/2019,Oct,Sun,8,8:44:00,passenger,TRUE,FALSE,Ok,none,high use road
+Motor Vehicle,70,1,19-3020781,4800 N IH 35 SVRD SB,10/29/2019,Oct,Tue,13,13:37:00,driver,TRUE,FALSE,suspended,driver,I35
+Pedestrian,71,1,19-3102011,1413 W William Cannon,11/6/2019,Nov,Wed,21,21:41:00,n/a,FALSE,FALSE,Ok,ped,high use road
+Pedestrian,72,1,19-3181630,1100 E 51st St,11/14/2019,Nov,Thu,20,20:36:00,n/a,FALSE,FALSE,ok,none,high use road
+Motor Vehicle,73,1,19-3200312,8300 E US 290 SVRD EB,11/16/2019,Nov,Sat,5,5:01:00,driver,TRUE,FALSE,Ok,driver,Other Highway
+Motor Vehicle,74,1,19-3201421,5808 Burnet Rd,11/16/2019,Nov,Sat,19,19:05:00,driver,TRUE,FALSE,ok,none,high use road
+Pedestrian,75,1,19-3251584,800 Block E William Cannon Dr,11/21/2019,Nov,Thu,19,19:18:00,n/a,FALSE,FALSE,ok,ped,high use road
+Motorcycle,76,1,19-3281398,1100 E Ben White Blvd Svrd WB,11/24/2019,Nov,Sun,19,19:15:00,driver,TRUE,FALSE,ok,driver,Other Highway
+Motor Vehicle,77,1,19-3341784,8500 S Congress ve,11/30/2019,Nov,Sat,23,23:41:00,passenger,FALSE,FALSE,ok,driver,Local Street
+Motor Vehicle,78,1,19-3161144,6700 Johnny Morris,11/12/2019,Nov,Tue,16,16:34:00,passenger,,FALSE,no dl,none,Local Street
+Motor Vehicle,79,1,19-3400361,8700 W SH 71,12/6/2019,Dec,Fri,6,6:53:00,driver,FALSE,FALSE,Ok,driver,Other Highway
+Motor Vehicle,80,1,19-3411777,9700 N IH 35 NB,12/7/2019,Dec,Sat,21,21:29:00,driver,FALSE,FALSE,Ok,driver,IH 35
+Pedestrian,81,1,19-3471756,2000 E Oltorf St,12/13/2019,Dec,Fri,19,19:34:00,N/A,FALSE,FALSE,ok,none,Local Street
+Pedestrian,82,1,19-3500150,6100 Cameron Rd,12/16/2019,Dec,Mon,2,2:26:00,n/a,,FALSE,unk,unknown,Local Street
+Motor Vehicle,83,1,19-3510124,100 E Ben White Blvd SVRD EB,12/17/2019,Dec,Tue,4,4:44:00,driver,TRUE,FALSE,Ok,driver,Other Highway
+Pedestrian,84,1,19-3530313,7600 W SH 71,12/19/2019,Dec,Thu,6,6:53:00,n/a,FALSE,FALSE,pending,none,Other Highway
+Pedestrian,85,1,19-3560188,11200 Dessau,12/22/2019,Dec,Sun,2,2:25:00,n/a,FALSE,FALSE,ok,none,high use road
+Pedestrian,86,1,19-3651208,6729 Manor,12/31/2019,Dec,Tue,18,16:11:00,n/a,FALSE,FALSE,pending,ped,high use road
+MOTOR VEHICLE,1,2,18-0041689,5600 Block N IH 35 NB,1/4/2018,Jan,Thu,23,23:25:00,driver and passenger,FALSE,FALSE,suspended,driver,IH35
+MOTOR VEHICLE,2,1,18-0160882,1500 W Slaughter Ln,1/16/2018,Jan,Tue,17,17:14:00,passenger,FALSE,FALSE,ok,none,High Use Road
+Motorcycle,3,1,18-0241249,500 blk E Howard Ln,1/24/2018,Jan,Wed,18,18:31:00,driver,FALSE,FALSE,no DL,Driver,local
+MOTOR VEHICLE,4,1,18-0280382,3600 s mopac expy SB,1/28/2018,Jan,Sun,5,5:00:00,Driver,FALSE,FALSE,ok,Driver,Other Highway
+Pedestrian,5,1,18-0301394,1650 E Anderson LN EB,1/30/2018,Jan,Tue,22,22:49:00,n/a,FALSE,FALSE,ok,none,Other Highway
+Motorcycle,6,1,18-0400212,Red River St / Luther Ln,2/9/2018,Feb,Fri,3,3:07:00,moped driver,FALSE,FALSE,ok,Driver,local street
+Bicycle,7,1,18-0290542,4805 Teri Rd,1/29/2018,Jan,Mon,12,12:18:00,n/a,unk,unk,unk,bicyclist,local street
+Pedestrian,8,1,18-0371243,7300 E Riverside Dr,2/6/2018,Feb,Tue,19,19:07:00,n/a,FALSE,FALSE,ok,none,High Use Road
+Pedestrian,9,1,18-0481490,Southpark Meadows Dr / W Slaughter Ln,2/17/2018,Feb,Sat,20,20:40:00,n/a,FALSE,FALSE,ok,Ped,High Use Road
+MOTOR VEHICLE,10,1,18-0541731,6500 Decker Ln,2/23/2018,Feb,Fri,22,22:32:00,driver,unk,FALSE,ok,none,High Use Road
+Pedestrian,11,1,18-0590287,800 E Slaughter Ln,2/28/2018,Feb,Wed,6,6:36:00,n/a,FALSE,TRUE,ok,none,High Use Road
+MOTOR VEHICLE,12,1,18-0721247,W Howard Ln / Mc Callen Pass,3/13/2018,Mar,Tue,16,16:31:00,driver,TRUE,FALSE,ok,driver,High Use Road
+Pedestrian,13,1,18-0741868,20 Block IH 35 NB,3/15/2018,Mar,Thu,20,20:45:00,n/a,unk,FALSE,unk,none,IH35
+MOTOR VEHICLE,14,1,18-0840342,10300 S Mopac Expy NB,3/23/2018,Mar,Sun,4,4:31:00,driver,TRUE,FALSE,ok,driver,Other Highway
+Motor Vehicle,15,1,18-0700966,1100 N Capital of Texas Hwy NB,3/11/2018,Mar,Sun,14,14:38:00,driver,FALSE,FALSE,exp DL,none,Other Highway
+MOTOR VEHICLE,16,1,18-0990064,6600 S Congress Ave,4/9/2018,Apr,Mon,1,1:09:00,driver,TRUE,FALSE,no DL,NONE,High Use Road
+Pedestrian,17,1,18-1010078,8900 Block S IH 35 NB,4/11/2018,Apr,Wed,1,1:15:00,n/a,FALSE,FALSE,suspended,PED,I35
+Motorcycle,18,1,18-1021241,8220 W SH 71,4/12/2018,Apr,Thu,17,17:39:00,driver,,FALSE,no DL,driver,Other Highway
+MOTOR VEHICLE,19,1,18-1060143,N IH 35 SVRD SB / E Cesar Chavez,4/16/2018,Apr,Mon,2,2:24:00,passenger,,FALSE,no dl,Driver,local street
+Pedestrian,20,1,18-1110273,8110 S IH 35 SVRD SB,4/21/2018,Apr,Sat,5,5:37:00,n/a,,FALSE,ok,ped,I35
+MOTOR VEHICLE,21,1,18-1210147,700 W Stassney Ln,5/1/2018,May,Tue,2,2:50:00,driver,TRUE,FALSE,exp DL,driver,High Use Road
+Pedestrian,22,1,18-1270120,7800 N IH 35 SVRD SB,5/7/2018,May,Mon,2,2:10:00,n/a,unk,FALSE,unk,PED,I35
+Pedestrian,23,1,18-1410188,5800 N IH 35 NB,5/21/2018,May,Mon,4,4:23:00,n/a,FALSE,FALSE,ok,Ped,I35
+MOTOR VEHICLE,24,1,18-1460542,7600 FM 969 RD,5/26/2018,May,Sat,9,9:42:00,driver,FALSE,FALSE,no DL,Driver,High Use Road
+Pedestrian,25,1,18-1581683,airport / springdale,6/7/2018,June,Thu,21,21:19:00,n/a,FALSE,FALSE,ok,none,High Use Road
+MOTOR VEHICLE,26,1,18-1611120,Harris Branch Pkwy / E US 290 HWY SVRD WB,6/10/2018,June,Sun,16,16:48:00,Driver,FALSE,unk,no DL,Driver,Other Highway
+Motorcycle,27,1,18-1610266,7300 Decker Ln,6/10/2018,June,Sun,3,3:03:00,Driver,FALSE,FALSE,suspended,none,High Use Road
+Motorcycle,28,1,18-1591949,7700 Decker,6/8/2018,June,Fri,22,22:41:00,passenger,FALSE,FALSE,ok,none,High Use Road
+Motorcycle,29,1,18-1642041,Springdale / Webberville,6/13/2018,June,Wed,23,23:26:00,driver,TRUE,FALSE,ok,driver,High Use Road
+MOTOR VEHICLE,30,1,18-1840847,3400 E SH 71 WB,7/3/2018,July,Tue,11,11:59:00,driver,unk,FALSE,exp DL,Driver,Other Highway
+Motor Vehicle,31,1,18-1901077,1389 W Cesar Chavez,7/9/2018,July,Mon,15,15:43:00,driver,unk,FALSE,ok,none,High Use Road
+Pedestrian,32,1,18-1941661,800 Rutland DR,7/13/2018,July,Fri,21,21:05:00,n/a,FALSE,FALSE,DL invalid,none (pending),local street
+Pedestrian,33,1,18-2040297,5700 W Parmer Lane,7/23/2018,July,Mon,6,6:29:00,n/a,unk,FALSE,unk,unk,High Use Road
+Motorcycle,34,1,18-2041737,7612 Bluff Springs,7/23/2018,July,Mon,22,22:20:00,driver,FALSE,FALSE,DL suspended,driver,local street
+MOTOR VEHICLE,35,1,18-1960333,3500 Block N IH 35 NB,7/15/2018,July,Sun,7,7:14:00,driver,FALSE,FALSE,DL suspended,none,I35
+Pedestrian,36,1,18-2070435,1000 Block E Anderson Ln EB SVRD,7/26/2018,July,Thu,8,8:40:00,n/a,FALSE,FALSE,ok,none,High Use Road
+Pedestrian,37,1,18-2080287,500 blk of N IH 35 SB,7/27/2018,July,Fri,21,21:17:00,n/a,FALSE,FALSE,ok,none,I35
+Pedestrian,38,1,18-2101672,Manchaca RD / Fort View RD,7/29/2018,July,Sun,22,22:36:00,n/a,FALSE,FALSE,ok,none (pending),High Use Road
+Pedestrian,39,1,18-2130392,600 W Ben White Blvd Svrd EB,8/1/2018,Aug,Wed,7,7:58:00,n/a,FALSE,FALSE,DL suspended,Driver,Other Highway
+Motorcycle,40,1,18-2191531,7400 Vintage Hills Dr,8/7/2018,Aug,Tues,18,18:52:00,driver,FALSE,FALSE,DL suspended,driver,local street
+MOTOR VEHICLE,41,1,18-2290031,12100 N IH 35 SVRD NB,8/17/2018,Aug,Fri,0,0:27:00,driver,TRUE,FALSE,ok,driver,I35
+Motor Vehicle,43,1,18-2330240,500 s Pleasant Valley Rd,8/21/2018,Aug,Tue,6,6:35:00,driver,FALSE,FALSE,ok,driver,local street
+MOTOR VEHICLE,44,1,18-2341687,N IH 35 SVRD NB / E US 290 HWY SVRD EB,8/22/2018,Aug,Wed,20,20:50:00,passenger,FALSE,TRUE,ok,Driver,Other Highway
+MOTOR VEHICLE,45,1,18-2370139,1500 E SH 71 EB,8/25/2018,Aug,Sat,1,1:24:00,passenger,TRUE,FALSE,no DL,Driver (pending),Other Highway
+Pedestrian,46,1,18-2271613,6900 Block Guadalupe St,8/16/2018,Aug,Thu,21,21:17:00,n/a,FALSE,FALSE,ok,Ped (pending),local street
+MOTOR VEHICLE,47,1,18-2330203,10700 N IH 35 NB,8/21/2018,Aug,Tue,6,6:00:00,Driver,FALSE,FALSE,DL suspended,Driver (pending),I35
+Pedestrian,48,1,18-2450389,12200 Dessau Rd,9/2/2018,Sep,Sun,7,7:44:00,n/a,unk,FALSE,unk,unk,High Use Road
+Pedestrian,49,1,18-2451655,4200 Block S Lamar Blvd SB,9/2/2018,Sep,Sun,22,22:12:00,n/a,FALSE,FALSE,ok,Ped,High Use Road
+Pedestrian,50,1,18-2300199,720 N IH 35 SVRD SB #700,8/18/2018,Aug,Sat,2,2:33:00,n/a,FALSE,FALSE,no DL,Driver,I35
+Pedestrian,51,1,18-2541731,1800 E 71 WB,9/11/2018,Sep,Tue,22,22:29:00,n/a,FALSE,FALSE,ok,none (pending),Other Highway
+MOTOR VEHICLE,52,1,18-2650690,E US 290 EB to N 130 NB Ramp / E US 290 HWY EB,9/22/2018,Sep,Sat,10,10:28:00,passenger,FALSE,TRUE,no DL,none (pending),Other Highway
+Pedestrian,53,1,18-2631843,1000 E St Johns Ave,9/20/2018,Sep,Thu,23,23:36:00,n/a,FALSE,FALSE,ok,Ped,local street
+MOTOR VEHICLE,54,1,18-2760038,2500 N IH 35 SB,10/3/2018,Oct,Wed,0,0:24:00,driver,TRUE,FALSE,ok,none,I35
+Pedestrian,55,1,18-2830122,Elkhart St / E Cesar Chavez St,10/10/2018,Oct,Wed,2,2:05:00,n/a,unk,FALSE,unk,none (pending),local street
+Pedestrian,56,1,18-2850362,7200 N IH 35 NB,10/12/2018,Oct,Fri,6,6:32:00,n/a,FALSE,FALSE,ok,ped,I35
+Motor Vehicle,57,1,18-2851504,12700 Research Blvd SVRD SB,10/12/2018,Oct,Fri,17,17:52:00,driver,FALSE,FALSE,ok,none (pending),Other Highway
+MOTOR VEHICLE,58,1,18-2891458,4000 E SH 71 SVRD WB,10/16/2018,Oct,Tue,19,19:52:00,driver,FALSE,TRUE,DL suspended,none,Other Highway
+MOTOR VEHICLE,59,1,18-2900992,1200 FM 1327 RD,10/17/2018,Oct,Wed,15,15:07:00,driver,FALSE,FALSE,ok,Driver,Other Highway
+Pedestrian,60,1,18-2920183,2400 S Lamar BLVD,10/19/2018,Oct,Fri,2,2:20:00,n/a,FALSE,FALSE,ok,Driver,local street
+Pedestrian,61,1,18-3030060,8200 N IH 35 NB,10/30/2018,Oct,Tue,3,3:50:00,n/a,FALSE,FALSE,ok,Ped,I35
+MOTOR VEHICLE,62,1,18-3011849,1200 Block W Oltorf St,10/29/2018,Oct,Sun,22,22:46:00,driver,FALSE,FALSE,,driver,local street
+Pedestrian,63,1,18-3060392,Machaca Rd / Berkett Dr,11/2/2018,Nov,Fri,11,11:52:00,n/a,FALSE,FALSE,ok,none,High Use Road
+Pedestrian,64,1,18-3070057,11400 N Mopac Expy SB,11/3/2018,Nov,Sat,0,0:33:00,n/a,FALSE,FALSE,ok,Ped,Other Highway
+Pedestrian,65,1,18-3080613,1100 N IH35 NB,11/4/2018,Nov,Sun,1,1:40:00,n/a,FALSE,FALSE,unk,Ped,I35
+MOTOR VEHICLE,66,1,18-3131903,FM 969 Rd / Regency Dr,11/9/2018,Nov,Fri,21,21:43:00,passenger,TRUE,FALSE,ok,driver,High Use Road
+Bicycle,67,1,18-3131550,1602 E Parmer Ln,11/9/2018,Nov,Fri,18,18:23:00,n/a,FALSE,FALSE,expired,none (pending),High Use Road
+MOTOR VEHICLE,68,1,18-3260732,14500 N 183A HWY NB,11/22/2018,Nov,Thu,15,15:17:00,Driver,FALSE,FALSE,ok,none (pending),Other Highway
+Pedestrian,69,1,18-3310794,7509 N IH 35 SVRD NB,11/27/2018,Nov,Tue,13,13:46:00,n/a,FALSE,FALSE,ok,ped,I35
+MOTOR VEHICLE,70,1,18-3331578,Research Blvd SVRD SB / MC Cann Dr,11/29/2018,Nov,Thu,19,19:48:00,driver,TRUE,FALSE,ok,driver (pending),Other Highway
+Pedestrian,71,1,18-3350146,900 Springdale Rd,12/1/2018,Dec,Sat,1,1:28:00,n/a,unk,FALSE,unk,Ped (pending),local street
+MOTOR VEHICLE,72,1,18-3381590,Payton Gin Rd / Research Blvd Svrd NB,12/4/2018,Dec,Tue,20,20:39:00,driver,TRUE,FALSE,ok,Driver (Pending),Other Highway
+Motorcycle,73,1,18-3551763,10200 N MOPAC Expwy SB,12/21/2018,Dec,Fri,20,20:21:00,n/a,FALSE,FALSE,ok,Driver (Pending),Other Highway
+MOTOR VEHICLE,74,1,18-3640187,S US 183 HWY SB / E BEN White EB to 183 SB Ramp,12/30/2018,Dec,Sun,2,2:24:00,passenger,FALSE,FALSE,ok,Driver,Other Highway
+Motor Vehicle,1,1,17-0030106,17-0030106,1/3/2017,Jan,Tue,1,1:55:00,driver,TRUE,FALSE,ok,DRIVER,high use roadway
+Bicycle,2,1,17-0080877,17-0080877,1/8/2017,Jan,Sun,15,15:32:00,n/a,FALSE,TRUE,suspended,NONE,other highway
+Motor Vehicle,3,1,17-0071308,17-0071308,1/7/2017,Jan,Sat,21,21:06:00,other driver,TRUE,FALSE,no DL,DRIVER,other highway
+Motor Vehicle,4,1,17-0150225,17-0150225,1/15/2017,Jan,Sun,2,2:19:00,passenger,FALSE,FALSE,no DL,BOTH Drivers,other highway
+Pedestrian,5,1,17-0110340,17-0110340,1/11/2017,Jan,Wed,6,6:51:00,n/a,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,6,1,17-0360196,17-0360196,2/5/2017,Feb,Sun,3,3:41:00,driver,FALSE,FALSE,ok,DRIVER,IH35
+Motor Vehicle,7,1,17-0381961,17-0381961,2/7/2017,Feb,Tue,23,23:24:00,driver,TRUE,FALSE,ok,DRIVER,IH35
+Motor Vehicle,8,1,17-0501713,17-0501713,2/19/2017,Feb,Sun,23,23:14:00,driver,TRUE,FALSE,ok,NONE,high use roadway
+Motorcycle,9,1,17-0531085,17-0531085,2/22/2017,Feb,Wed,15,15:15:00,mc driver,TRUE,FALSE,no DL,NONE,other highway
+Motor Vehicle,10,1,17-0480200,17-0480200,2/17/2017,Feb,Fri,2,2:48:00,driver,TRUE,FALSE,no DL,DRIVER,other highway
+Motor Vehicle,11,1,17-0701330,17-0701330,3/11/2017,Mar,Sat,20,20:44:00,driver,FALSE,TRUE,no dl,DRIVER,high use roadway
+Bicycle,12,1,17-0732104,17-0732104,3/14/2017,Mar,Tue,23,23:42:00,bicyclist,FALSE,FALSE,ok,BOTH,high use roadway
+Motor Vehicle,13,1,17-0770668,17-0770668,3/18/2017,Mar,Sat,8,8:07:00,driver,TRUE,FALSE,ok,DRIVER,high use roadway
+Pedestrian,14,1,17-0710136,17-0710136,3/12/2017,Mar,Sun,1,1:21:00,ped,FALSE,FALSE,ok,PED,high use roadway
+Pedestrian,15,1,17-0780309,17-0780309,3/19/2017,Mar,Sun,2,2:31:00,ped,FALSE,unk,suspended,PED,high use roadway
+Pedestrian,16,1,17-0830563,17-0830563,3/24/2017,Mar,Fri,11,11:56:00,ped,FALSE,FALSE,ok,NONE,high use roadway
+Bicycle,17,1,17-0871629,17-0871629,3/28/2017,Mar,Tue,19,19:26:00,bicyclist,FALSE,FALSE,ok,DRIVER/BICYCLIST,high use roadway
+Motor Vehicle,18,1,17-0890705,17-0890705,3/30/2017,Mar,Thu,11,11:12:00,passenger,FALSE,TRUE,ok,NONE,high use roadway
+Pedestrian,19,1,17-0941734,17-0941734,4/4/2017,Apr,Tue,21,21:06:00,ped,FALSE,FALSE,unk,PED,high use roadway
+Motor Vehicle,20,2,17-0980238,17-0980238,4/8/2017,Apr,Sat,4,4:43:00,driver and driver other,unk,FALSE,suspended,DRIVER,other highway
+Motor Vehicle,21,2,17-0980393,17-0980393,4/8/2017,Apr,Sat,9,9:52:00,driver and driver other,FALSE,FALSE,no DL,NONE,other highway
+Motorcycle,22,1,17-1071522,17-1071522,4/17/2017,Apr,Mon,19,19:21:00,motorcycle driver,FALSE,FALSE,no MC,NONE,local
+Motorcycle,23,1,17-1151237,17-1151237,4/25/2017,Apr,Tue,16,16:19:00,motorcycle driver,FALSE,FALSE,ok,NONE,other highway
+Motor Vehicle,24,1,17-1191031,17-1191031,4/29/2017,Apr,Sat,13,13:52:00,driver,TRUE,FALSE,suspended,DRIVER,high use roadway
+Pedestrian,25,1,17-1170279,17-1170279,4/27/2017,Apr,Thu,6,6:23:00,ped,FALSE,FALSE,suspended,NONE,high use roadway
+Motor Vehicle,26,1,17-1210792,17-1210792,5/1/2017,May,Mon,12,12:02:00,driver,TRUE,FALSE,no DL,DRIVER,high use roadway
+Motor Vehicle,27,1,17-1501748,17-1501748,5/30/2017,May,Tue,21,21:18:00,driver,TRUE,FALSE,no DL,DRIVER,high use roadway
+Motor Vehicle,28,1,17-1560274,17-1560274,6/5/2017,Jun,Mon,6,6:15:00,driver,FALSE,TRUE,ok,NONE,other highway
+Motor Vehicle,29,1,17-1611733,17-1611733,6/10/2017,Jun,Sat,22,22:28:00,driver,FALSE,FALSE,ok,Driver,high use roadway
+Pedestrian,30,1,17-1621547,17-1621547,6/11/2017,Jun,Sun,21,21:18:00,ped,FALSE,FALSE,ok,NONE,local
+Motor Vehicle,31,1,17-1890048,17-1890048,7/8/2017,Jul,Sat,0,0:30:00,driver,FALSE,FALSE,suspended,DRIVER,high use roadway
+Motor Vehicle,32,1,17-1941615,17-1941615,7/13/2017,Jul,Thu,20,20:59:00,other driver,unk,,ok,NONE,other highway
+Pedestrian,33,1,17-1981784,17-1981784,7/17/2017,Jul,Thu,22,22:58:00,ped,FALSE,FALSE,ok,NONE,high use roadway
+Motor Vehicle,34,1,17-2080502,17-2080502,7/27/2017,Jul,Sun,8,8:52:00,passenger,FALSE,FALSE,ok,NONE,other highway
+Motorcycle,35,1,17-2141370,17-2141370,8/2/2017,Aug,Wed,21,21:43:00,motorcycle driver,TRUE,FALSE,ok,NONE,local
+Pedestrian,36,1,17-2151598,17-2151598,8/3/2017,Aug,Thu,21,21:25:00,ped,FALSE,FALSE,ok,PED,I35
+Motor Vehicle,37,1,17-2171698,17-2171698,8/5/2017,Aug,Sat,23,23:06:00,driver,TRUE,FALSE,no DL,DRIVER,high use roadway
+Motorcycle,38,1,17-2180064,17-2180064,8/6/2017,Aug,Sun,0,0:33:00,motorcycle driver,FALSE,FALSE,ok,NONE,high use roadway
+Pedestrian,39,1,17-2190051,17-2190051,8/7/2017,Aug,Mon,1,1:48:00,ped,FALSE,FALSE,no DL,PED,alley
+Motor Vehicle,40,1,17-2260242,17-2260242,8/14/2017,Aug,Mon,5,5:32:00,driver,TRUE,FALSE,ok,NONE,high use roadway
+Pedestrian,41,1,17-2350340,17-2350340,8/23/2017,Aug,Wed,7,7:14:00,ped,unk,FALSE,unknown,PED,other highway
+Motor Vehicle,42,1,17-2460227,17-2460227,9/3/2017,Sep,Sun,2,2:22:00,driver,TRUE,FALSE,ok,none,other highway
+Pedestrian,43,1,17-2471532,17-2471532,9/4/2017,Sep,Mon,21,21:44:00,ped,unk,FALSE,suspended,UNKNOWN,high use roadway
+Motor Vehicle,44,1,17-2481396,17-2481396,9/5/2017,Sep,Tue,22,22:18:00,driver,TRUE,FALSE,ok,Driver,other highway
+Motor Vehicle,45,1,17-2361605,17-2361605,8/24/2017,Aug,Thu,20,20:27:00,passenger,FALSE,FALSE,ok,NONE,IH35
+Pedestrian,46,1,17-2500282,17-2500282,9/7/2017,Sep,Thu,5,5:49:00,ped,FALSE,FALSE,ok,PED,local
+Motor Vehicle,47,1,17-2450905,17-2450905,9/2/2017,Sep,Sat,14,14:00:00,passenger,FALSE,FALSE,ok,NONE,local
+Motor Vehicle,48,1,17-2680216,17-2680216,9/25/2017,Sep,Mon,5,5:14:00,driver,FALSE,FALSE,ok,NONE,local
+Bicycle,49,1,17-2650203,17-2650203,9/22/2017,Sep,Fri,2,2:28:00,bicyclist,FALSE,FALSE,ok,BICYLIST,local
+Pedestrian,50,1,17-2831149,17-2831149,10/10/2017,Oct,Tue,16,16:29:00,ped,TRUE,FALSE,unknown,PED,local
+Pedestrian,51,1,17-2850475,17-2850475,10/12/2017,Oct,Thu,10,10:37:00,ped,FALSE,FALSE,ok,NONE,local
+Pedestrian,52,1,17-2861375,17-2861375,10/13/2017,Oct,Fri,19,19:36:00,ped,FALSE,FALSE,no DL,none,local
+Pedestrian,53,1,17-2890294,17-2890294,10/16/2017,Oct,Mon,5,5:57:00,ped,FALSE,FALSE,ok,PED,high use roadway
+Pedestrian,54,1,17-3001690,17-3001690,10/27/2017,Oct,Sat,21,21:00:00,ped,FALSE,FALSE,ok,PED,high use roadway
+Motorcycle,55,1,17-3021271,17-3021271,10/29/2017,Oct,Sun,18,18:13:00,mc driver,TRUE,TRUE,ok,MOTORCYCLE DRIVER,local
+Pedestrian,56,1,17-3041428,17-3041428,10/31/2017,Oct,Tue,20,20:35:00,ped,FALSE,FALSE,unknown,UNKNOWN,local
+Motorcycle,57,1,17-3090297,17-3090297,11/5/2017,Nov,Sun,2,2:19:00,motorcycle driver,TRUE,FALSE,no DL,Driver,local
+Motor Vehicle,58,1,17-3091672,17-3091672,11/5/2017,Nov,Sun,22,22:19:00,driver,TRUE,FALSE,suspended,Driver,local
+Motor Vehicle,59,3,17-3150989,17-3150989,11/11/2017,Nov,Sat,15,15:32:00,driver and 2 passenger,FALSE,FALSE,ok,DRIVER,other highway
+Motor Vehicle,60,2,17-3151167,17-3151167,11/11/2017,Nov,Sat,22,22:37:00,driver and passenger,TRUE,FALSE,no DL,Driver,high use roadway
+Pedestrian,61,1,17-3241448,17-3241448,11/20/2017,Nov,Mon,19,19:44:00,ped,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,62,1,17-3271177,17-3271177,11/23/2017,Nov,Thu,22,22:39:00,driver,TRUE,FALSE,no DL,Driver,local
+Pedestrian,63,1,17-3281208,17-3281208,11/24/2017,Nov,Fri,20,20:01:00,ped,FALSE,FALSE,ok,PED,high use roadway
+Pedestrian,64,1,17-3281397,17-3281397,11/24/2017,Nov,Fri,22,22:14:00,ped,FALSE,FALSE,ok,none,IH35
+Motorcycle,65,1,17-3370167,17-3370167,12/3/2017,DEC,Sun,1,1:21:00,driver,TRUE,FALSE,ok,NONE,high use roadway
+Pedestrian,66,1,17-3371099,17-3371099,12/3/2017,DEC,Sun,16,16:25:00,ped,FALSE,FALSE,ok,PED,IH35
+Motorcycle,67,1,17-3380841,17-3380841,12/4/2017,DEC,Mon,13,13:10:00,driver,TRUE,FALSE,suspended,Driver,other highway
+Motorcycle,68,1,17-3390056,17-3390056,12/5/2017,DEC,Tue,0,0:40:00,Driver,TRUE,FALSE,suspended,Driver,local
+Motor Vehicle,69,1,17-3410022,17-3410022,12/7/2017,DEC,Thu,0,0:19:00,passenger,TRUE,FALSE,no DL,DRIVER,local
+Motorcycle,70,1,17-3460912,17-3460912,12/12/2017,DEC,Tue,14,14:13:00,driver,unk,FALSE,ok,NONE,other highway
+Motor Vehicle,71,1,17-3550122,17-3550122,12/21/2017,DEC,Thu,1,1:38:00,driver,TRUE,FALSE,ok,DRIVER,local
+Pedestrian,1,1,16-0061621,9700 Blk Lake Creek Pkwy,1/6/2016,Jan,Wed,23,23:14:00,n/a,FALSE,FALSE,ok,PED,local street
+Pedestrian,2,1,16-0140992,4800 E. Riverside Dr.,1/14/2016,Jan,Thu,14,14:46:00,n/a,FALSE,FALSE,ok,UNKNOWN,high use roadway
+Motor Vehicle,3,1,16-0221932,6300 blk E William Cannon,1/22/2016,Jan,Fri,23,23:29:00,driver,TRUE,FALSE,ok,DRIVER,high use roadway
+Pedestrian,4,1,16-0301529,12300 N Lamar,1/30/2016,Jan,Sat,20,20:01:00,n/a,FALSE,FALSE,ok,UNKNOWN,high use roadway
+Motorcycle,5,1,16-0450263,Burleson Rd / McKinney Falls Pkwy,2/14/2016,Feb,Sun,2,2:22:00,motorcyclist,TRUE,FALSE,ok,DRIVER,local street
+Motor Vehicle,6,1,16-0450294,6800 Cooper Ln,2/14/2016,Feb,Sun,2,2:36:00,passenger,TRUE,FALSE,ok,DRIVER,local street
+Pedestrian,7,1,16-0451375,700 Montopolis,2/14/2016,Feb,Sun,19,19:05:00,n/a,FALSE,FALSE,ok,PED,local street
+Motorcycle,8,1,16-0490903,N US 183 Hwy Svrd NB/Pecan Park Blvd,2/18/2016,Feb,Thu,13,13:14:00,motorcyclist,FALSE,TRUE,no MC license,NONE,other highway
+Pedestrian,9,1,16-0501840,Riverside Dr/Willow Creek,2/19/2016,Feb,Fri,23,23:08:00,n/a,FALSE,FALSE,ok,PED,high use roadway
+Motorcycle,10,1,16-0570527,10100 blk FM 2222,2/26/2016,Feb,Fri,9,9:47:00,motorcyclist,TRUE,FALSE,no DL,NONE,high use roadway
+Motor Vehicle,11,1,16-0680636,5700 N Mopac Expy Svrd SB,3/8/2016,Mar,Tue,10,10:48:00,driver (other),TRUE,TRUE,ok,NONE,other highway
+Pedestrian,12,1,16-0710293,1100 Blk N IH35 SVRD NB,3/11/2016,Mar,Fri,5,5:12:00,n/a,FALSE,FALSE,ok,NONE,IH35
+Motor Vehicle,13,1,16-0760018,1100 W Cesar Chavez St,3/16/2016,Mar,Wed,0,0:07:00,Driver,TRUE,FALSE,ok,DRIVER,local street
+Pedestrian,14,1,16-0782023,1100 S IH35 NB,3/18/2016,Mar,Fri,20,20:47:00,n/a,FALSE,FALSE,unk (changed 10/3/16),NONE,IH35
+Motor Vehicle,15,1,16-0891859,5100 blk Ponciana,3/29/2016,Mar,Tue,23,23:59:00,passenger,TRUE,FALSE,no DL,DRIVER,local street
+Motor Vehicle,16,1,16-0840516,Sunland Dr/Brodie Ln,3/24/2016,Mar,Thu,8,8:58:00,Driver,FALSE,TRUE,ok,NONE,local street
+Motorcycle,17,1,16-0921012,15500 Avery Ranch,4/1/2016,Apr,Fri,13,13:29:00,motorcyclist,FALSE,FALSE,suspended DL,UNKNOWN (Wm County),local street
+Motorcycle,18,1,16-0981477,1500 Blk Grove Blvd,4/8/2016,Apr,Fri,18,18:46:00,motorcyclist,TRUE,FALSE,ok,NONE,local street
+Motorcycle,19,1,16-1100803,9900 BLK Lake Creek PKWY,4/19/2016,Apr,Tue,12,12:56:00,motorcyclist,FALSE,FALSE,ok,MC DRIVER,local street
+Pedestrian,20,1,16-1130332,9200 blk Burnet Rd,4/22/2016,Apr,Fri,6,6:21:00,n/a,FALSE,FALSE,ok,PED,high use roadway
+Motorcycle,21,1,16-1141386,1600 blk Royal Crest Dr,4/23/2016,Apr,Sat,18,18:13:00,motorcyclist,FALSE,FALSE,ok,MC DRIVER,local street
+Pedestrian,22,1,16-1220390,100 N IH 35 NB,5/1/2016,May,Sun,3,3:20:00,n/a,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,23,1,16-1272087,3100 Burleson Rd,5/6/2016,May,Fri,23,23:18:00,driver,TRUE,FALSE,no DL,DRIVER,local street
+Pedestrian,24,1,16-1341025,7900 Blk Gault St,5/13/2016,May,Fri,14,14:17:00,n/a,FALSE,FALSE,ok,NONE,local street
+Motor Vehicle,25,1,16-1411671,9500 blk Dessau Rd,5/20/2016,May,Fri,20,20:35:00,Driver,TRUE,FALSE,no DL,NONE,local street
+Pedestrian,26,1,16-1431145,5900 blk Cameron,5/22/2016,May,Sun,17,17:05:00,n/a,FALSE,FALSE,suspended DL,NONE,local street
+Pedestrian,27,1,16-1461992,5500 blk N IH-35,5/25/2016,May,Wed,23,23:22:00,n/a,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,28,1,16-1500519,Braker Ln/Burnet Rd,5/29/2016,May,Sun,9,9:05:00,passenger,FALSE,TRUE,ok,NONE,local street
+Motor Vehicle,29,1,16-1540103,11200 Lakeline Mall,6/2/2016,Jun,Thu,3,3:14:00,Driver,TRUE,FALSE,ok,DRIVER,local street
+Pedestrian,30,1,16-1591804,Spicewood Springs/Rustic Rock,6/7/2016,Jun,Tue,22,22:14:00,n/a,FALSE,FALSE,ok,NONE,local street
+Motor Vehicle,31,1,16-1640183,2400 S IH35 NB,6/12/2016,Jun,Sun,3,3:32:00,driver (other),TRUE,FALSE,suspended DL,DRIVER,other highway
+Pedestrian,32,1,16-1851779,8007 Burnet Rd,7/3/2016,Jul,Sun,22,22:30:00,n/a,FALSE,FALSE,ok,PED,local street
+Motor Vehicle,33,1,16-1881009,EB HWY 290 Frontage at Decker Ln.,7/6/2016,Jul,Wed,15,15:16:00,driver,TRUE,TRUE,ok,NONE,other highway
+Pedestrian,34,1,16-1910390,E PARMER LN / HARRISGLENN DR,7/9/2016,Jul,Sat,5,5:49:00,n/a,FALSE,FALSE,ok,NONE,high use roadway
+Motor Vehicle,35,1,16-1920479,8300 Mesa Dr,7/10/2016,Jul,Sun,6,6:40:00,driver,TRUE,TRUE,ok,DRIVER,local street
+Motor Vehicle,36,1,16-2021185,3300 SH 130 S,7/20/2016,Jul,Wed,17,17:09:00,driver,FALSE,FALSE,ok,NONE,other highway
+Motor Vehicle,37,1,16-2060277,500 S Mopac SB,7/24/2016,Jul,Sun,2,2:30:00,driver,FALSE,FALSE,ok,DRIVER,other highway
+Motor Vehicle,38,1,16-2041963,5600 W Parmer Ln,7/23/2016,Jul,Sat,23,23:32:00,child passenger,FALSE,TRUE,ok,NONE,high use roadway
+Bicycle,39,1,16-1921728,Bluff Springs/Chateau Village Way,7/10/2016,Jul,Sun,23,23:40:00,n/a,FALSE,FALSE,ok,NONE,local street
+Motor Vehicle,40,1,16-2221218,400 FM 1327,8/9/2016,Aug,Tue,16,16:21:00,driver,FALSE,FALSE,ok,DRIVER,local street
+Pedestrian,41,1,16-2260245,40 S IH35 NB,8/13/2016,Aug,Sat,2,2:07:00,n/a,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,42,1,16-2321719,3300 blk S IH35 NB Svrd,8/19/2016,Aug,Fri,20,20:24:00,driver,TRUE,FALSE,ok,DRIVER,IH35
+Motor Vehicle,43,1,16-2330343,15000 Blk N IH35 SVRD SB,8/20/2016,Aug,Sat,3,3:50:00,passenger,FALSE,FALSE,ok,DRIVER,IH35
+Pedestrian,44,1,16-2331844,Wm Cannon/Bill Hughes Rd,8/20/2016,Aug,Sat,23,23:07:00,n/a,FALSE,FALSE,no DL,NONE,high use roadway
+Motor Vehicle,45,1,16-2360858,2400 Blk of W. Anderson Ln,8/23/2016,Aug,Tue,13,13:05:00,passenger,FALSE,FALSE,ok,NONE,local street
+Motorcycle,46,1,16-2431548,10800 N Mopac,8/30/2016,Aug,Tue,20,20:30:00,mc driver,TRUE,FALSE,ok,NONE,other highway
+Motorcycle,47,1,16-2450740,8300 blk Burnet Rd,9/1/2016,Sep,Thu,11,11:14:00,mc driver,FALSE,FALSE,suspended DL,NONE,local street
+Motor Vehicle,48,2,16-2540406,2610 N. Capital of Texas Hwy,9/10/2016,Sep,Sat,6,6:24:00,both drivers,FALSE,FALSE,ok,"SUSPECTED (no tox, but count as impaired)",other highway
+Motor Vehicle,49,1,16-2541081,8900 N. FM 620/Boulder Ln,9/10/2016,Sep,Sat,17,17:57:00,driver,FALSE,FALSE,ok,NONE,other highway
+Pedestrian,50,1,16-2621675,South 1st/St Elmo,9/18/2016,Sep,Sun,21,21:55:00,n/a,FALSE,FALSE,ok,PED,local street
+Motorcycle,51,1,16-2631318,6800 Blk Southwest Pkwy,9/19/2016,Sep,Mon,17,17:45:00,mc driver,FALSE,FALSE,ok,DRIVER (deceased),high use roadway
+Motorcycle,52,1,16-2720145,5000 N Mopac Expy SB,9/28/2016,Sep,Wed,2,2:15:00,mc driver,TRUE,FALSE,no DL,MC DRIVER,other highway
+Motor Vehicle,53,1,16-2760037,7500 blk Cameron Rd,10/2/2016,Oct,Sun,0,0:19:00,driver,TRUE,FALSE,no DL,DRIVER,local street
+Motor Vehicle,54,1,16-2861999,6700 blk Metropolis,10/12/2016,Oct,Wed,23,23:53:00,driver,TRUE,FALSE,suspended DL,DRIVER,local street
+Motor Vehicle,55,1,16-2890341,5700 blk S Mopac NB,10/15/2016,Oct,Sat,3,3:27:00,driver,TRUE,FALSE,ok,DRIVER,other highway
+Motor Vehicle,56,1,16-2870420,W US 290 EB to S Mopac,10/13/2016,Oct,Thu,8,8:39:00,driver,FALSE,FALSE,ok,NONE,other highway
+Motor Vehicle,57,1,16-2930162,2500 blk S IH35 SB,10/19/2016,Oct,Wed,2,2:25:00,driver,TRUE,FALSE,ok,DRIVER,IH35
+Motor Vehicle,58,1,16-3000186,1400 W Koenig Ln,10/26/2016,Oct,Wed,3,3:20:00,driver,unk,FALSE,ok,DRIVER,local street
+Motor Vehicle,59,1,16-3000728,10000 Manchaca Rd,10/26/2016,Oct,Wed,12,12:07:00,driver,FALSE,FALSE,ok,DRIVER,high use roadway
+Bicycle,60,1,16-3100481,5200 W US 290 HWY EB,11/5/2016,Nov,Sat,7,7:20:00,n/a,FALSE,FALSE,invalid,NONE,other highway
+Pedestrian,61,1,16-3131560,8900 N LAMAR BLVD,11/8/2016,Nov,Mon,6,18:57:00,n/a,FALSE,FALSE,ok,PED,high use roadway
+Motorcycle,62,1,16-3161707,13700 S IH 35 SVRD SB,11/11/2016,Nov,Fri,8,20:21:00,mc driver,FALSE,FALSE,ok,DRIVER,IH35
+Pedestrian,63,1,16-3210249,5300 N IH 35 SB,11/16/2016,Nov,Wed,5,5:50:00,n/a,FALSE,FALSE,invalid (veh 1),PED,IH35
+Pedestrian,64,1,16-3111517,800 Wagon Trail,11/6/2016,Nov,Sun,8,20:34:00,n/a,FALSE,FALSE,ok,NONE,local street
+Motor Vehicle,65,2,16-3271364,10000 E US 290 Hwy SVRD EB,11/22/2016,Nov,Tue,19,19:31:00,driver & passenger,FALSE,FALSE,suspended DL,DRIVER (pending),other highway
+Pedestrian,66,1,16-3280195,10700 blk IH35 NB,11/23/2016,Nov,Wed,3,3:34:00,n/a,FALSE,FALSE,okay and unknown,PED (pending),IH35
+Motorcycle,67,1,16-3161617,1300 Lockhart Hwy (Bastrop NB to Ben White WB),11/11/2016,Nov,Fri,21,21:44:00,driver,FALSE,FALSE,no MC license,DRIVER,other highway
+Pedestrian,68,1,16-3290999,6800 N IH35 SB,11/24/2016,Nov,Thu,18,18:37:00,n/a,FALSE,FALSE,ok,PED (pending),IH35
+Motor Vehicle,69,1,16-3301094,7000 N Lamar Blvd,11/25/2016,Nov,Fri,19,19:47:00,driver,TRUE,FALSE,ok,DRIVER (pending),high use roadway
+Pedestrian,70,1,16-3341248,3300 blk Manor Rd,11/29/2016,Nov,Tue,21,21:13:00,n/a,FALSE,FALSE,ok,NONE,local street
+Pedestrian,71,1,16-3340717,2200 S IH35 NB,11/29/2016,Nov,Tue,14,14:15:00,n/a,FALSE,FALSE,ok,DRIVER,IH35
+Motor Vehicle,72,1,16-3420429,E Hwy 71 WB/S SH130 Svrd SB,12/7/2016,Dec,Wed,8,8:22:00,driver,TRUE,TRUE,ok,NONE,other highway
+Motor Vehicle,73,1,16-3530419,8700 blk W SH71,12/18/2016,Dec,Sun,3,3:38:00,passenger,pending,FALSE,ok,NONE,other highway
+Motor Vehicle,74,1,16-3560215,300 W Ben White,12/21/2016,Dec,Wed,5,5:47:00,driver,FALSE,FALSE,ok,DRIVER,other highway
+Pedestrian,75,1,16-3561018,Congress Ave/Little Texas Ln,12/21/2016,Dec,Wed,16,16:13:00,n/a,FALSE,FALSE,ok,NONE,high use roadway
+Pedestrian,76,1,16-3581664,1400 S Capital of Tx Hwy NB,12/23/2016,Dec,Fri,22,22:10:00,n/a,FALSE,FALSE,ok,PED,other highway
+Pedestrian,77,1,16-3301144,Congress Ave/Sheraton Ave,11/25/2016,Nov,Fri,17,17:58:00,n/a,FALSE,FALSE,ok,"PED (no tox done, see notes on victim)",high use roadway
+Motor Vehicle,1,1,15-0061199,600 Blk E Koenig Lane,1/6/2015,Jan,Tues,17,17:15:00,driver,TRUE,FALSE,ok,DRIVER,High-use roadway
+Pedestrian,2,1,15-71386,12900 Blk N IH35 SB,1/7/2015,Jan,Wed,18,18:36:00,ped,FALSE,FALSE,ok,none,IH35
+Pedestrian,3,1,15-100275,7400 Blk E US Hwy 290 EB,1/10/2015,Jan,Sat,3,3:10:00,ped,FALSE,FALSE,unk (FTSRA),PED,Other highway
+Motorcycle,4,1,15-131517,4700 Blk E Riverside Dr,1/13/2015,Jan,Tues,21,21:30:00,motorcyclist,FALSE,FALSE,no motorcycle license,none,High-use roadway
+Motor Vehicle,5,1,15-150104,Berkman Dr/Cloverleaf Dr,1/15/2015,Jan,Thu,1,1:41:00,driver other car,TRUE,FALSE,ok,DRIVER,Local Street
+Pedestrian,6,1,15-181372,8400 S. Congress Ave,1/18/2015,Jan,Sun,19,19:37:00,ped,FALSE,FALSE,ok,PED,High-use roadway
+Motor Vehicle,7,1,15-181537,2900 N. Lamar,1/18/2015,Jan,Sun,21,21:23:00,driver,TRUE,FALSE,ok,DRIVER,High-use roadway
+Pedestrian,8,1,15-0201458,1030 Norwood Park Blvd,1/20/2015,Jan,Tues,18,18:36:00,ped,FALSE,FALSE,ok,none,Local Street
+Motor Vehicle,9,1,15-240366,7300 Blk Burleson Rd,1/24/2015,Jan,Sat,4,4:17:00,driver,FALSE,FALSE,ok,DRIVER,High-use roadway
+Motor Vehicle,10,1,15-271694,8100 Blk Research Blvd,1/27/2015,Jan,Tues,21,21:42:00,driver,FALSE,FALSE,ok,none,Other highway
+Motor Vehicle,11,1,15-0090206,12600 Blk N IH35 SB Svrd,1/9/2015,Jan,Fri,2,2:58:00,driver,TRUE,FALSE,ok,DRIVER,IH35
+Pedestrian,12,1,15-0420153,9700 Blk Lamar,2/11/2015,Feb,Wed,2,2:46:00,ped,FALSE,FALSE,ok,none,High-use roadway
+Motor Vehicle,13,1,15-0430844,1700 Blk S. Capital of Texas Hwy (Loop 360),2/12/2015,Feb,Thu,12,12:23:00,driver,FALSE,FALSE,ok,none,Other highway
+Motor Vehicle,14,1,15-0460146,5800 Blk of Loyola Ln,2/15/2015,Feb,Sun,1,1:06:00,driver,TRUE,FALSE,no DL,DRIVER,Local Street
+Motor Vehicle,15,1,15-0530465,2100 W Parmer Ln,2/22/2015,Feb,Sun,6,6:13:00,driver other car,FALSE,FALSE,ok,none,High-use roadway
+Motor Vehicle,16,1,15-540076,7100 Blk N IH 35 frontage,2/23/2015,Feb,Mon,1,1:17:00,driver,FALSE,FALSE,suspended,DRIVER,IH35
+Pedestrian,17,1,15-0740445,2200 Block E Anderson LN SVRD WB,3/15/2015,Mar,Sun,3,3:27:00,ped,FALSE,FALSE,ok,PED,Other highway
+Motor Vehicle,18,1,15-0770231,4500 Block N Lamar,3/18/2015,Mar,Wed,2,2:23:00,driver,TRUE,FALSE,ok,DRIVER,High-use roadway
+Pedestrian,19,1,15-0782196,1600 Blk E Hwy 71 WB,3/19/2015,Mar,Thu,22,22:29:00,ped,FALSE,FALSE,unk (FTSRA),NONE,Other highway
+Motorcycle,20,1,15-0821128,W Slaughter Ln/Palace Parkway,3/23/2015,Mar,Mon,3,3:17:00,motorcyclist,TRUE,FALSE,no motorcycle license,MC DRIVER,High-use roadway
+Motor Vehicle,21,1,15-0821761,9230 FM 2222,3/23/2015,Mar,Mon,21,21:03:00,driver,suspected,FALSE,suspended,DRIVER,High-use roadway
+Motor Vehicle,22,1,15-0870426,3700 N Mopac Expy NB,3/28/2015,Mar,Sat,4,4:12:00,driver,FALSE,FALSE,ok,DRIVER,Other highway
+Motorcycle,23,1,15-0871475,5300 Ed Bluestein Blvd,3/28/2015,Mar,Sat,18,18:07:00,motorcyclist,TRUE,FALSE,ok,none,Other highway
+Motorcycle,24,1,15-0880163,14106 N IH35 SVRD SB,3/29/2015,Mar,Sun,1,1:15:00,motorcyclist,TRUE,FALSE,ok,MC DRIVER,IH35
+Motorcycle,25,1,15-0890331,FM 2222/Vaught Ranch Rd,3/30/2015,Mar,Mon,6,6:50:00,motorcyclist,FALSE,FALSE,ok,none,High-use roadway
+Motor Vehicle,26,1,15-0861726,800 Blk W Slaughter Ln,3/27/2015,Mar,Fri,20,20:24:00,driver,FALSE,FALSE,ok,none,High-use roadway
+Motor Vehicle,27,1,15-1021773,Burnet Rd/Gracy Farms,4/12/2015,Apr,Sun,20,10:31:00,driver other car,TRUE,TRUE,okay (but suspended previously 24 times),DRIVER,High-use roadway
+Pedestrian,28,2,15-1120238,5200 blk Burleson Rd,4/22/2015,Apr,Wed,6,6:00:00,ped,FALSE,FALSE,ok,both PEDs,High-use roadway
+Motorcycle,29,1,15-1121615,10500 blk Lakeline Blvd,4/22/2015,Apr,Wed,20,20:52:00,motorcyclist,TRUE,FALSE,no motorcycle license,none,High-use roadway
+Pedestrian,30,1,15-1160279,2100 blk S US Hwy 183 SB,4/26/2015,Apr,Sun,2,2:26:00,ped,FALSE,FALSE,unk (FTSRA),PED,Other highway
+Motorcycle,31,1,15-1190387,400 blk No Mopac NB,4/29/2015,Apr,Wed,8,8:34:00,motorcyclist,TRUE,FALSE,no motorcycle license,MC DRIVER,Other highway
+Pedestrian,32,1,15-1240014,3900 Blk S. Congress,5/4/2015,May,Mon,12,12:04:00,ped,FALSE,FALSE,suspended,none,High-use roadway
+Motor Vehicle,33,2,15-1300319,1386 Blk E. Parmer Lane,5/10/2015,May,Sun,3,3:24:00,2 passengers,FALSE,FALSE,no DL (from Guatemala),DRIVER,High-use roadway
+Pedestrian,34,1,15-1351769,8960 blk Research Blvd NB Svrd,5/15/2015,May,Fri,21,21:47:00,ped,FALSE,FALSE,ok,PED,Other highway
+Motorcycle,35,1,15-1360124,3500 blk S. Lamar NB,5/16/2015,May,Sat,1,1:08:00,motorcyclist,FALSE,FALSE,no motorcycle license,DRIVER of MV and MC,High-use roadway
+Pedestrian,36,1,15-1420193,600 E Riverside Dr,5/22/2015,May,Fri,2,2:23:00,ped,FALSE,FALSE,ok,PED and DRIVER,High-use roadway
+Motor Vehicle,37,1,15-1210550,300 blk Airport Blvd,5/1/2015,May,Fri,9,9:17:00,driver other car,FALSE,FALSE,ok,none,High-use roadway
+Motor Vehicle,38,1,15-1450562,Parmer Ln/Lamar Blvd,5/25/2015,May,Mon,9,9:04:00,driver other car,TRUE,TRUE,ok,none,High-use roadway
+Motor Vehicle,39,1,15-1471857,Cooper Ln/Wm Cannon Dr,5/27/2015,May,Wed,21,21:30:00,driver,TRUE,FALSE,suspended,none,Local Street
+Pedestrian,41,1,15-1520572,300 Blk South First St,6/1/2015,Jun,Mon,9,9:55:00,ped,FALSE,FALSE,ok,NONE,Local Street
+Motor Vehicle,42,1,15-1521872,1900 Blk Manana St,6/1/2015,Jun,Mon,22,22:07:00,passenger,TRUE,FALSE,ok,DRIVER,Local Street
+Bicycle,43,1,15-1571536,5600 Johnny Morris Rd,6/6/2015,Jun,Sat,18,18:34:00,bicyclist,FALSE,FALSE,ok,none,Local Street
+Pedestrian,44,1,15-1572016,900 E Koenig Ln,6/6/2015,Jun,Sat,23,23:00:00,ped,FALSE,FALSE,ok,PED,High-use roadway
+Motorcycle,45,1,15-1591125,5200 West Gate Blvd,6/8/2015,Jun,Mon,15,15:24:00,motorcyclist,FALSE,FALSE,no motorcycle license,DRIVER,Local Street
+Pedestrian,46,1,15-1651735,5900 S. IH-35 NB,6/14/2015,Jun,Sun,22,22:49:00,ped,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,47,1,15-1700080,1900 W Ben White Blvd WB,6/19/2015,Jun,Fri,0,0:56:00,driver,FALSE,FALSE,ok,DRIVER,Other highway
+Motor Vehicle,48,1,15-1790220,4900 Block Ed Bluestein Blvd SB,6/28/2015,Jun,Sun,1,1:51:00,driver other car,FALSE,FALSE,no license,DRIVER,Other highway
+Motor Vehicle,49,1,15-1831489,938 E Koenig Ln,7/2/2015,Jul,Thu,18,18:13:00,driver other car,FALSE,FALSE,no license,unknown,High-use roadway
+Pedestrian,50,1,15-1891775,S. Congress/Cumberland Rd,7/8/2015,Jul,Wed,21,21:55:00,ped,FALSE,FALSE,ok,PED,High-use roadway
+Pedestrian,51,1,15-1920174,1000 Blk E Anderson Ln SVRD EB,7/11/2015,Jul,Sat,1,1:21:00,ped,FALSE,FALSE,unk (FTSRA),none,Other highway
+Pedestrian,52,1,15-1920358,1200 E 11th Street,7/11/2015,Jul,Sat,3,3:14:00,ped,FALSE,FALSE,ok,PED,Local Street
+Motor Vehicle,53,1,15-1921496,10800 S IH35 SVRD NB,7/11/2015,Jul,Sat,19,19:09:00,passenger,TRUE,FALSE,no license,DRIVER,IH35
+Motor Vehicle,54,1,15-1841034,Tillery/Govalle,7/3/2015,Jul,Fri,13,13:42:00,driver other car,FALSE,FALSE,ok,none,Local Street
+Pedestrian,55,1,15-1942043,E US 290 Hwy SVRD,7/14/2015,Jul,Mon,23,23:01:00,ped,FALSE,FALSE,ok,PED,Other highway
+Pedestrian,56,1,15-1970159,6400 Blk Ed Bluestein Blvd SB,7/16/2015,Jul,Thu,2,2:23:00,ped,unk,FALSE,unk (FTSRA),PED,Other highway
+Motor Vehicle,57,1,15-1961576,9100 Blk of 2222,7/15/2015,Jul,Wed,20,20:07:00,driver other car,unk,FALSE,ok,none,High-use roadway
+Motor Vehicle,58,3,15-2050108,8500 N IH35 NB,7/24/2015,Jul,Fri,1,1:13:00,3 passengers,FALSE,FALSE,ok,none,IH35
+Motor Vehicle,59,1,15-2110058,10700 Manchaca Rd,7/30/2015,Jul,Wed,0,0:42:00,driver,TRUE,FALSE,ok,DRIVER,High-use roadway
+Motor Vehicle,60,1,15-2120938,9700 Blk Manchaca Rd,7/31/2015,Jul,Fri,12,12:23:00,driver other car,TRUE,FALSE,ok,none,High-use roadway
+Pedestrian,61,1,15-2081746,6600 Blk S. Congress,7/27/2015,Jul,Mon,21,21:19:00,ped,FALSE,FALSE,ok,none,High-use roadway
+Motorcycle,62,1,15-2210159,400 Congress,8/9/2015,Aug,Sun,1,1:30:00,motorcyclist,FALSE,FALSE,no DL,DRIVER,High-use roadway
+Motor Vehicle,63,1,15-2220464,3400 Blk W Slaughter Ln,8/10/2015,Aug,Mon,8,8:49:00,passenger,FALSE,FALSE,ok,none,High-use roadway
+Motorcycle,64,1,15-2281258,Red River/E 15th,8/16/2015,Aug,Sun,18,18:01:00,motorcycle passenger,FALSE,FALSE,ok,NONE,Local Street
+Motor Vehicle,65,2,15-2310184,4500 N IH35 SB,8/19/2015,Aug,Wed,2,2:36:00,Passenger and driver other,FALSE,FALSE,ok,DRIVER,IH35
+Motor Vehicle,66,2,15-2320928,US Hwy 183/Burleson Rd,8/20/2015,Aug,Thu,12,12:34:00,driver and passenger,unk,TRUE,no DL,DRIVER,Other highway
+Motor Vehicle,67,4,15-2420466,10515 N. Mopac Blvd,8/30/2015,Aug,Sun,4,4:53:00,driver and 3 passengers,TRUE,FALSE,suspended,DRIVER,High-use roadway
+Pedestrian,68,1,15-2511796,6500 Blk Manchaca Rd,9/8/2015,Sep,Tues,21,21:02:00,ped,FALSE,FALSE,ok,PED,High-use roadway
+Motor Vehicle,69,1,15-2570230,8400 Blk N IH35 NB,9/14/2015,Sep,Mon,5,5:00:00,driver,TRUE,FALSE,ok,DRIVER,IH35
+Pedestrian,70,1,15-2571607,1500 Blk Howard Ln,9/14/2015,Sep,Mon,20,20:48:00,ped,FALSE,FALSE,ok,none,High-use roadway
+Pedestrian,71,1,15-2650424,6600 S IH35 SB,9/22/2015,Sep,Tues,8,8:27:00,ped,FALSE,FALSE,ok,PED,IH35
+Motor Vehicle,72,1,15-2660066,E SH 71 WB/ S FM 973,9/23/2015,Sep,Wed,1,1:09:00,driver,TRUE,FALSE,ok,DRIVER,Other highway
+Motor Vehicle,73,1,15-2690383,FM 969/Decker Ln,9/26/2015,Sep,Sat,3,3:58:00,driver,TRUE,FALSE,ok,DRIVER,High-use roadway
+Motorcycle,74,1,15-2831615,1200 S IH 35 NB,10/10/2015,Oct,Sat,21,21:47:00,motorcyclist,unk,FALSE,no motorcycle license,MC DRIVER,IH35
+Pedestrian,75,1,15-2862019,100 W. Oltorf,10/14/2015,Oct,Wed,0,0:55:00,ped,unk,FALSE,suspended,DRIVER,Local Street
+Motor Vehicle,76,1,15-3041434,6300 Cameron Rd,10/31/2015,Oct,Sat,19,19:33:00,driver other car,unk,FALSE,no DL,DRIVER,High-use roadway
+Motor Vehicle,77,1,15-3070006,9700 blk E Hwy 290 WB Svrd,11/3/2015,Nov,Tues,0,0:04:00,driver,unk,FALSE,ok (but had restriction of s.o over 21 in front with him),DRIVER,Other highway
+Motor Vehicle,78,1,15-3100135,8300 E Ben White blvd EB,11/6/2015,Nov,Fri,2,2:09:00,driver,TRUE,FALSE,ok,DRIVER,Other highway
+Motor Vehicle,79,1,15-3130037,9000 blk Research Blvd SB,11/9/2015,Nov,Mon,0,0:21:00,driver,FALSE,FALSE,ok (corrected on 10/3/16 per Kunkel),DRIVER,Other highway
+Pedestrian,80,1,15-3120285,Riverside/Willow Creek Dr,11/8/2015,Nov,Sun,3,3:13:00,ped,unk,FALSE,unk (FTSRA),unknown,High-use roadway
+Motor Vehicle,81,1,15-3180188,W Slaughter Ln/Mopac Expry SB,11/14/2015,Nov,Sat,1,1:55:00,driver other car,TRUE,TRUE,suspended,DRIVER,High-use roadway
+Motor Vehicle,82,1,15-3181228,Huntland Dr/Airport Blvd,11/14/2015,Nov,Sat,17,17:03:00,driver,FALSE,FALSE,no DL,DRIVER,High-use roadway
+Motorcycle,83,1,15-3221644,1700 S. Pleasant Valley,11/18/2015,Nov,Wed,19,19:52:00,motorcyclist,FALSE,FALSE,no DL,None,High-use roadway
+Pedestrian,84,1,15-3340212,7700 Blk S IH-35 SVRD SB,11/30/2015,Nov,Mon,5,5:23:00,ped,FALSE,FALSE,ok,PED,IH35
+Pedestrian,85,1,15-3451563,12800 Pearce Ln,12/11/2015,Dec,Fri,19,19:19:00,ped,FALSE,FALSE,no DL,PED,Local Street
+Motor Vehicle,86,1,15-3500173,400 Blk Tillery St,12/16/2015,Dec,Wed,2,2:36:00,passenger,TRUE,FALSE,no DL,DRIVER,Local Street
+Pedestrian,87,1,15-3510334,3000 E SH 71 EB,12/17/2015,Dec,Thu,12,12:50:00,ped,unk,FALSE,ok,PED,Other highway
+Bicycle,88,1,15-3560291,10100 Brodie Ln,12/22/2015,Dec,Tues,6,6:31:00,bicyclist,FALSE,FALSE,ok,Bicyclist,Local Street
+Motor Vehicle,89,1,15-2480466,7000 Blk Thannas Way,9/5/2015,Sep,Sat,7,7:14:00,driver,TRUE,FALSE,no DL and suspended ID,DRIVER,Local Street
+Motor Vehicle,90,1,15-3640128,1670 Barton Springs RD,12/30/2015,Dec,Wed,3,3:26:00,driver,TRUE,FALSE,Invalid,DRIVER,Local Street
+Motor Vehicle,91,1,15-3640244,12000 N IH 35 SVRD NB,12/30/2015,Dec,Wed,5,5:50:00,driver,TRUE,FALSE,ok,DRIVER,IH35
+Motorcycle,92,1,15-3641425,2700 Blk Steck Ave,12/31/2015,Dec,Thu,1,1:12:00,motorcyclist,TRUE,FALSE,no motorcycle license,DRIVER,Local Street
+Motor Vehicle,93,1,15-3601318,9600 S. IH 35 SVRD SB,12/26/2015,Dec,Sat,21,21:06:00,driver,TRUE,FALSE,suspended,NONE,IH35
+Motorcycle,94,1,15-3650652,12100 Hunters Chase Dr,12/31/2015,Dec,Thu,11,11:53:00,motorcyclist,TRUE,FALSE,no motorcycle license,DRIVER,local street
+Motor Vehicle,1,2,14-0030146,S IH35 SB SVRD / E Ben White,1/3/2014,Jan,Fri,1,1:53:00,Driver and Passenger,TRUE,TRUE,ok,DRIVER,IH-35
+Motor Vehicle,2,1,14-0121394,6500 Block Burnet Rd,1/12/2014,Jan,Sun,21,21:15:00,driver,FALSE,FALSE,ok,DRIVER,Local
+Motor Vehicle,3,2,14-350943,Research Blvd/Balcones Woods Dr,2/4/2014,Feb,Tue,14,14:33:00,Driver and Passenger,FALSE,TRUE,ok,DRIVER,Other High Speed Roadway
+Motor Vehicle,4,1,14-401238,9500 block East US HWY 290 SVRD EB,2/9/2014,Feb,Sun,17,17:51:00,Passenger,TRUE,FALSE,No license,DRIVER,Other High Speed Roadway
+Motor Vehicle,5,1,14-420154,6133 E. Ben White,2/11/2014,Feb,Tue,2,2:37:00,Passenger,FALSE,FALSE,ok,DRIVER,Other High Speed Roadway
+Motorcycle,6,1,14-0531384,3400 Lynridge Dr.,2/22/2014,Feb,Sat,18,18:32:00,MC Driver,TRUE,FALSE,no MC license,NONE,Local
+Pedestrian,7,1,14-0511533,6400 FM 969,2/20/2014,Feb,Thu,19,19:15:00,Pedestrian,FALSE,FALSE,suspended,PEDESTRIAN,high speed roadway
+Pedestrian,8,1,14-0610300,2500 Block N MoPac NB,3/2/2014,Mar,Sun,2,2:17:00,Pedestrian,FALSE,FALSE,ok,PEDESTRIAN,other highway
+Motorcycle,9,1,14-711395,4500 E. MLK,3/12/2014,Mar,Wed,17,17:00:00,Driver,FALSE,FALSE,ok,NONE,Local
+Motorcycle,10,1,14-720068,E 10th/Red River,3/13/2014,Mar,Thu,0,0:31:00,MC Driver,TRUE,FALSE,No license,DRIVER,Local
+Pedestrian,10,1,14-720068,E 10th/Red River,3/13/2014,Mar,Thu,0,0:31:00,Pedestrian,TRUE,FALSE,No license,DRIVER,Local
+Bicycle,10,1,14-720068,E 10th/Red River,3/13/2014,Mar,Thu,0,0:31:00,Bicyclist,TRUE,FALSE,No license,DRIVER,Local
+Pedestrian,10,1,14-720068,E 10th/Red River,3/13/2014,Mar,Thu,0,0:31:00,Pedestrian,TRUE,FALSE,No license,DRIVER,Local
+Pedestrian,11,1,14-831574,9200 block N. Lamar,3/24/2014,Mar,Mon,21,21:20:00,Pedestrian,FALSE,FALSE,unk (FTSRA),PEDESTRIAN,high speed roadway
+Pedestrian,12,1,14-0920362,1200 block S. Lamar,4/2/2014,Apr,Wed,7,7:00:00,Pedestrian,FALSE,FALSE,ok,PEDESTRIAN,high speed roadway
+Pedestrian,13,1,14-0980245,Bastrop Hwy SB / Vargas Rd,4/8/2014,Apr,Tue,6,6:02:00,Pedestrian,FALSE,FALSE,ok,NONE,other highway
+Motorcycle,14,1,14-1080600,"400 E. Anderson Lane
+(on the proper SB)
+7800 Research Blvd SB",4/18/2014,Apr,Fri,9,9:48:00,MC Driver,TRUE,FALSE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,15,1,14-1090350,9000 US Hwy 290 E Service Road WB,4/19/2014,Apr,Sat,3,3:26:00,Driver,FALSE,FALSE,ok,DRIVER,Other High Speed Roadway
+Pedestrian,16,1,14-1160156,800 Block N IH35 Service Road NB,4/26/2014,Apr,sat,1,1:12:00,Pedestrian,FALSE,FALSE,ok,DRIVER AND PEDESTRIAN,IH-35
+Pedestrian,17,1,14-1160537,500 Block S MOPAC SB Frontage Rd.,4/26/2014,Apr,Sat,6,6:46:00,Pedestrian,FALSE,FALSE,driver unknown,PEDESTRIAN,other highway
+Motor Vehicle,18,2,14-1220761,1900 Block Barton Hills Dr,5/2/2014,May,Fri,10,10:49:00,Driver and Passenger,TRUE,FALSE,ok,NONE,local
+Motorcycle,19,1,14-1381081,6900 block Old Bee Caves Rd,5/18/2014,May,Sun,15,15:28:00,MC Driver,FALSE,FALSE,ok,DRIVER,local
+Motor Vehicle,20,1,14-1460575,7800 N. IH35 SB,5/26/2014,May,Mon,9,9:40:00,passenger,FALSE,FALSE,suspended,NONE,IH-35
+Motor Vehicle,21,1,14-1492152,Springdale Rd & E. 51st,5/29/2014,May,Thu,23,23:06:00,Driver,TRUE,FALSE,No license,DRIVER,local
+Motorcycle,22,1,14-1562012,E US 290 Hwy Svrd EB/N SH 130 Svrd NB,6/5/2014,Jun,Thu,21,21:42:00,Driver,FALSE,TRUE,ok,NONE,Other High Speed Roadway
+Pedestrian,49,1,14-3150887,5600 Sunshine Dr,11/11/2014,Nov,Tue,13,13:52:00,Pedestrian,FALSE,FALSE,ok,NONE,parking lot
+Motor Vehicle,23,2,14-1611519,E Parmer Lane / Harris Branch Pkwy,6/10/2014,Jun,Tue,18,18:50:00,Driver and Passenger,FALSE,TRUE,No license,DRIVER,Local
+Motorcycle,24,1,14-1781234,N MOPAC NB Flyover to NB Research Blvd,6/27/2014,Jun,Fri,15,15:08:00,MC Driver,TRUE,FALSE,ok,DRIVER,Other High Speed Roadway
+Motor Vehicle,25,1,14-1571838,US290 SVRD EB / SH 130 SVRD SB,6/6/2014,Jun,Fri,20,20:39:00,Passenger,FALSE,TRUE,suspended,NONE,Other Highspeed Roadway
+Motor Vehicle,26,1,14-1830837,10200 W Parmer,7/2/2014,Jul,Wed,12,12:08:00,Passenger,FALSE,FALSE,No license,NONE,Local
+Motorcycle,27,1,14-1860285,S IH35 NB / S 35 NB to E Ben White WB Ramp,7/5/2014,Jul,Sat,1,1:16:00,MC Driver,TRUE,FALSE,ok,DRIVER,IH-35
+Motor Vehicle,28,1,14-2080587,N US 183 SVRD SB/S Lakeline Blvd,7/27/2014,Jul,Sun,7,7:13:00,Passenger,FALSE,TRUE,ok,NONE,Other High Speed Roadway
+18 Wheeler,29,1,14-2110222,12100 N IH 35 SB,7/30/2014,Jul,Wed,3,3:24:00,driver,FALSE,FALSE,ok,NONE,IH-35
+Motorcycle,30,1,14-2170973,9500 Anderson Mill Rd,8/5/2014,Aug,Tue,13,13:29:00,mc driver,TRUE,FALSE,ok,NONE,Local
+Pedestrian,31,1,14-2191803,8300 N IH35 SVRD NB,8/7/2014,Aug,Thu,20,20:32:00,Pedestrian,TRUE,FALSE,unk (FTSRA),DRIVER,IH-35
+Motor Vehicle,32,1,14-2221586,10100 blk of S IH35 NB,8/10/2014,Aug,Sun,21,21:25:00,passenger,TRUE,FALSE,ok,DRIVER,IH-35
+Motorcycle,33,1,14-2241488,2800 E Parmer Ln,8/12/2014,Aug,Mon,18,18:56:00,mc driver,FALSE,FALSE,ok,NONE,Local
+Motorcycle,34,1,14-2270272,2400 E. 7th at Pedernales,8/15/2014,Aug,Fri,3,3:56:00,MC Driver,TRUE,TRUE,suspended,BOTH DRIVERS,Local
+Motor Vehicle,35,1,14-2360470,3400 S. Congress,8/24/2014,Aug,Sun,5,5:53:00,driver,FALSE,TRUE,suspended,DRIVER,Local
+Motor Vehicle,36,1,14-2420458,6800 E US 290 HWY WB,8/30/2014,Aug,Sat,5,5:19:00,driver,TRUE,FALSE,ok,DRIVER,Other High Speed Roadway
+Motor Vehicle,37,1,14-2500091,10 N IH35 SVRD,9/7/2014,Sep,Sun,0,0:49:00,driver,FALSE,FALSE,suspended,DRIVER,IH-35
+Motor Vehicle,38,1,14-2560358,1500 Block S IH35 SB,9/13/2014,Sep,Sat,3,3:18:00,driver,FALSE,FALSE,ok,DRIVER,IH-35
+Motor Vehicle,39,1,14-2570014,900 Block Bastrop Hwy NB,9/14/2014,Sep,Sun,0,0:05:00,driver,TRUE,FALSE,ok,NONE,Other Highspeed Roadway
+Motor Vehicle,40,1,14-2030970,3000 Blk S FM 973,7/22/2014,Jul,Tue,13,13:52:00,driver,FALSE,FALSE,ok,NONE,Other Highspeed Roadway
+Motor Vehicle,41,1,14-2960803,Jollyville/Taylor Draper Ln,10/23/2014,Oct,Thu,12,12:07:00,passenger,FALSE,FALSE,ok,NONE,local
+Motor Vehicle,42,1,14-2980124,1400 Blk Kramer Lane,10/25/2014,Oct,Sat,0,0:53:00,driver,TRUE,FALSE,suspended,DRIVER,Local
+Motor Vehicle,43,1,14-3021765,11500 N SH 130 Svrd NB,10/29/2014,Oct,Wed,20,20:46:00,driver,FALSE,TRUE,suspended,DRIVER,Other Highspeed Roadway
+Motor Vehicle,44,1,14-3041041,Parmer Lane/Scofield Farms,10/31/2014,Oct,Fri,12,12:32:00,Passenger,TRUE,FALSE,ok,NONE,Local
+Pedestrian,45,1,14-3050606,12200 block N. Mopac NB,11/1/2014,Nov,Sat,4,4:14:00,Pedestrian,FALSE,FALSE,ok,PEDESTRIAN,other highway
+Motor Vehicle,46,1,14-2841214,Alice Mae Ln/Slaughter Ln,10/11/2014,Oct,Sat,16,16:59:00,driver,FALSE,FALSE,ok,NONE,Local
+Pedestrian,47,1,14-3121764,6900 Block Ed Bluestein Blvd,11/8/2014,Nov,Sat,22,22:12:00,Pedestrian,FALSE,FALSE,ok,NONE,other highway
+18 Wheeler,48,1,14-3150019,9100 Research Blvd Svrd NB,11/11/2014,Nov,Tue,22,22:19:00,driver,FALSE,FALSE,ok,DRIVER,Other High Speed Roadway
+Pedestrian,50,1,14-3241842,300 W Anderson Ln,11/20/2014,Nov,Thu,21,21:50:00,Pedestrian,FALSE,FALSE,ok,PEDESTRIAN,local
+Motorcycle,51,1,14-3270925,10200 Boulder Ln,11/23/2014,Nov,Sun,13,13:06:00,mc driver,TRUE,FALSE,no MC license,NONE,Local
+Motorcycle,52,1,14-3281561,McCallen Pass/Center Ridge Dr,11/24/2014,Nov,Mon,18,18:55:00,mc driver,FALSE,FALSE,no license,NONE,Local
+Motor Vehicle,53,1,14-3340356,4600 E Riverside Dr,11/30/2014,Nov,Sun,3,3:32:00,driver,TRUE,TRUE,ok,DRIVER,Local
+Pedestrian,54,1,14-3371605,6400 S 1st St,12/3/2014,Dec,Wed,18,18:37:00,Pedestrian,FALSE,FALSE,suspended,PEDESTRIAN,Local
+Motor Vehicle,55,1,14-3540447,800 W Dittmar,12/20/2014,Dec,Sat,4,4:28:00,driver,TRUE,FALSE,ok,DRIVER,Local
+Motor Vehicle,56,1,14-3610910,S SH 130 Svrd SB/E SH 71 WB,12/27/2014,Dec,Sat,15,15:44:00,driver,FALSE,TRUE,ok,NONE,Other Highspeed Roadway
+Motorcycle,1,2,13-0011875,1100 Berger St,1/1/2013,Jan,Tue,18,18:50:00,Driver and Passenger,,FALSE,suspended license for many years for DWLI also did not have no motorcycle endorsement or insurance. 2 fatalities,Driver,Local Street
+Motor Vehicle,2,1,13-0030199,12600 S. IH 35 NB proper,1/3/2013,Jan,Thu,4,4:10:00,Passenger,,FALSE,ok,NONE,IH-35
+Motor Vehicle,3,1,13-0080360,5000 Sara Dr,1/8/2013,Jan,Tue,7,7:30:00,Driver,,FALSE,suspended license for many years for DWLI and no insurance.,Driver,Local Street
+Motor Vehicle,4,1,13-0150689,10300 Block S. IH35 NB,1/15/2013,Jan,Tue,11,11:31:00,Driver,,FALSE,suspended license,NONE,IH-35
+Motor Vehicle,5,1,13-181143,6500 Block Northeast Dr,1/18/2013,Jan,Fri,15,15:28:00,Driver,TRUE,FALSE,suspended license,Driver,Local Street
+Motorcycle,6,1,13-191317,12500 Block Lamplight Village,1/19/2013,Jan,Sat,17,17:08:00,MC Driver,,FALSE,suspended license,Driver,Local Street
+Motor Vehicle,7,1,13-100224,8500 Georgian Dr,1/10/2013,Jan,Thu,4,4:03:00,Driver,TRUE,FALSE,No license. Driver 15.,NONE,Local Street
+Motor Vehicle,8,1,13-300042,1500 Block E. Howard,1/30/2013,Jan,Wed,0,0:28:00,Driver,TRUE,FALSE,ok,Driver,Local Street
+Pedestrian,9,1,13-0331698,4300 Block S. 1st St.,2/2/2013,Feb,Sat,20,20:52:00,Pedestrian,,FALSE,ok,Pedestrian,Local Street
+Pedestrian,10,1,13-0371743,4400 BLK N MoPac Expy SB,2/6/2013,Feb,Wed,20,20:10:10,Pedestrian,,FALSE,ok,Pedestrian,other highway
+Motor Vehicle,11,1,13-0430572,4000 blk FM 2222,2/12/2013,Feb,Tue,10,10:58:00,driver,TRUE,FALSE,ok,NONE,Local Street
+Pedestrian,12,1,13-0481841,7800 N. IH 35 Svrd. SB,2/17/2013,Feb,Sun,23,23:12:00,Pedestrian,,FALSE,unknown driver,Pedestrian,IH-35
+Motor Vehicle,13,1,13-0501182,12500 Block Riata Vista Circle,2/19/2013,Feb,Tue,14,14:57:00,Passenger,,FALSE,ok,Driver,Local Street
+Motor Vehicle,14,1,13-0522144,"10200 block Old Manchaca Rd,",2/21/2013,Feb,Thu,23,23:37:00,passenger,,FALSE,ok,NONE,Local Street
+Pedestrian,15,1,13-0530316,7400 block S. IH35 SB Svrd,2/22/2013,Feb,Fri,3,3:50:00,Pedestrian,,FALSE,unknown driver,NONE,IH-35
+Motor Vehicle,16,1,13-0630367,8900 E. Parmer Ln,3/4/2013,Mar,Mon,7,7:29:00,driver,TRUE,FALSE,No license,NONE,Local Street
+Pedestrian,17,1,13-0670202,1600 Wickersham,3/8/2013,Mar,Fri,2,2:20:00,Pedestrian,,FALSE,unknown driver,Pedestrian,Parking Lot
+Motorcycle,18,1,13-0720383,2800 block S SH 130 NB EF,3/13/2013,Mar,Wed,7,7:45:00,mc driver,,FALSE,ok,Driver,Other High Speed Roadway
+Pedestrian,19,1,13-0721075,Chicon St / E Cesar Chavez,3/13/2013,Mar,Wed,14,14:30:00,Pedestrian,,FALSE,ok,NONE,Local Street
+Motorcycle,20,1,13-0761130,9480 FM 2222,3/17/2013,Mar,Sun,14,14:20:00,mc driver,,FALSE,No license,NONE,Local Street
+Motor Vehicle,21,1,13-0812198,Springdale Rd / Pecan Brook Dr,3/22/2013,Mar,Fri,22,22:45:00,driver,,TRUE,No license,Driver,Local Street
+Pedestrian,22,1,13-0820489,3300 block S. US 183 HWY SB,3/23/2013,Mar,Sat,7,7:45:00,Pedestrian,,FALSE,unknown driver,Pedestrian,other highway
+Motor Vehicle,23,1,13-0920787,6800 block Decker Lane,4/2/2013,Apr,Tue,11,11:38:00,driver,,FALSE,suspended license,Driver,Local Street
+Pedestrian,24,1,13-0990275,3100 block E. State Hwy 71,4/9/2013,Apr,Tue,6,6:04:00,Pedestrian,,FALSE,ok,NONE,other highway
+Pedestrian,25,1,13-1081685,9500 Block N IH35 NB,4/18/2013,Apr,Thu,20,20:35:00,Pedestrian,,FALSE,ok,Pedestrian,IH-35
+Pedestrian,26,1,13-1100118,Ed Bluestein Blvd SB / Loyola Ln,4/20/2013,Apr,Sat,0,0:50:00,Pedestrian,,FALSE,ok,Pedestrian,other highway
+Motorcycle,27,1,13-1100201,9811 Anderson Mill Road,4/20/2013,Apr,Sat,1,1:31:00,mc driver,,FALSE,ok,Driver,Local Street
+Motor Vehicle,28,1,13-1111560,6200 Block W US 290 HWY WB,4/21/2013,Apr,Sun,20,20:24:00,passenger,,FALSE,No license,Driver,Other High Speed Roadway
+Pedestrian,29,1,13-1271873,6800 N. Lamar,5/7/2013,May,Tue,22,22:08:00,Pedestrian,,FALSE,No license,Pedestrian,high speed roeadway
+Pedestrian,30,1,13-1310154,2900 block E. Highwy 71 EB,5/11/2013,May,sat,1,1:11:00,Pedestrian,,FALSE,ok,NONE,other highway
+Motor Vehicle,31,1,13-1441421,4800 blk S FM 973 Rd,5/24/2013,May,Fri,16,16:42:00,driver,,FALSE,unknown,NONE,Local Street
+Motorcycle,32,1,13-1640086,6400 S IH 35 NB SVC RD,6/13/2013,Jun,Thu,1,1:20:00,mc driver,,FALSE,ok,Driver,IH-35
+Motor Vehicle,33,1,13-1640264,5530 Burnet Rd,6/13/2013,Jun,Thu,5,5:33:00,driver,TRUE,FALSE,ok,NONE,Local Street
+Motor Vehicle,34,1,13-1642048,5800 block City Park Rd,6/13/2013,Jun,Thu,23,23:37:00,driver,TRUE,FALSE,ok,Driver,Local Street
+Motorcycle,35,1,13-1690289,3900 Block Guadalupe Dr,6/18/2013,Jun,Tue,6,6:02:00,driver,,FALSE,ok,NONE,Local Street
+Pedestrian,36,1,13-1711879,3500 Block IH35 SB,6/20/2013,Jun,Thu,21,21:24:00,Pedestrian,,FALSE,ok,Pedestrian,IH-35
+Pedestrian,37,1,13-1740490,4400 Block S Mopac Expy SB,6/23/2013,Jun,Sun,6,6:02:00,Pedestrian,,FALSE,unknown,Pedestrian,other highway
+Pedestrian,38,1,13-1741450,1130 Block Airport Blvd,6/23/2013,Jun,Sun,19,19:48:00,Pedestrian,,FALSE,unknown,Pedestrian,Local Street
+BICYCLE,39,1,13-1690651,6600 W US Hwy 290,6/18/2013,Jun,Tue,12,12:28:00,bicyclist,,FALSE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,40,1,13-1810380,6700 E US Hwy 290,6/30/2013,Jun,Sun,3,3:27:00,Passenger,TRUE,FALSE,ok,Driver,Other High Speed Roadway
+Pedestrian,41,1,13-1631964,1931 E Oltorf St,6/12/2013,Jun,Wed,22,22:55:00,Pedestrian,,FALSE,suspended license,Driver,Local Street
+Motor Vehicle,42,1,13-1970713,Research Blvd Svrd NB & Duval,7/15/2013,Jul,Tue,12,12:04:00,driver,,TRUE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,43,1,13-2000992,5700 E Martin Luther King Jr Blvd,7/19/2013,Jul,Fri,12,12:34:00,driver,TRUE,FALSE,No license,NONE,Local Street
+Motorcycle,44,1,13-2001989,10600 Manchaca,7/19/2013,Jul,Fri,21,21:59:00,driver,,FALSE,ok,NONE,Local Street
+Pedestrian,45,1,13-2002105,1300 Block S IH35 NB,7/19/2013,Jul,Fri,22,22:48:00,Pedestrian,,FALSE,ok,Pedestrian,IH-35
+Motorcycle,46,1,13-2010583,0 block Research Blvd SB,7/20/2013,Jul,sat,7,7:25:00,mc driver,TRUE,FALSE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,47,1,13-2020347,12500 block of McCallen Pass,7/21/2013,Jul,Sun,3,3:17:00,driver,,FALSE,ok,NONE,Local Street
+Motor Vehicle,48,1,13-2060373,9000 Block N FM 620,7/25/2013,Jul,Thu,7,7:15:00,driver,,FALSE,ok,NONE,Local Street
+Motor Vehicle,49,1,13-2140126,12900 Block N IH35 SB Svrd,8/2/2013,Aug,Fri,1,1:02:00,driver,TRUE,FALSE,No license,Driver,IH-35
+Motorcycle,50,1,13-2220145,7600 E. Ben White EB,8/10/2013,Aug,Sat,1,1:19:00,mc driver,,FALSE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,51,1,13-2240139,1400 Bastrop Highway Svrd,8/12/2013,Aug,Mon,2,2:10:00,driver,,FALSE,ok,Driver,Other High Speed Roadway
+Motor Vehicle,52,1,13-2440409,3100 E SH 71 EB,9/1/2013,Sep,sun,3,3:34:00,driver,,FALSE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,53,1,13-2470176,FM 1825 & Wells Branch Parkway,9/4/2013,Sep,Wed,2,2:15:00,driver,TRUE,FALSE,ok,Driver,Local Street
+Motor Vehicle,54,1,13-2510197,11135 N IH35 Svrd NB,9/8/2013,Sep,Sun,1,1:45:00,driver,TRUE,FALSE,no license,Driver,IH-35
+Motor Vehicle,55,1,13-2530936,E. MLK Â Blvd and E.M. Franklin Ave,9/10/2013,Sep,Tue,13,13:22:00,driver,,TRUE,ok,Driver,Local Street
+Motor Vehicle,56,1,13-2631827,Manchaca Rd/Dittmar Rd,9/20/2013,Sep,Fri,20,20:37:00,passenger,,FALSE,supsended for DWI,Driver,Local Street
+Pedestrian,57,1,13-2710828,5710 Glen Meadow Dr,9/28/2013,Sep,Sat,11,11:08:00,Pedestrian,,FALSE,,,Local Street
+Motor Vehicle,58,1,13-2861308,1700 W. Ben White EB,10/13/2013,Oct,Sun,16,16:39:00,driver,,FALSE,ok,Driver,Other High Speed Roadway
+Motor Vehicle,59,1,13-2930450,9100 S. IH 35 SVRD SB,10/20/2013,Oct,Sun,4,4:39:00,driver,TRUE,FALSE,ok,Driver,IH-35
+Motor Vehicle,60,2,13-2960081,12000 N MOPAC Expy NB,10/23/2013,Oct,Wed,0,0:52:00,both drivers,,FALSE,ok,Driver,Other High Speed Roadway
+Motor Vehicle,61,1,13-2971834,1700 E SH71 WB,10/24/2013,Oct,Thu,21,21:11:00,Passenger,,FALSE,ok,NONE,Other High Speed Roadway
+Motor Vehicle,62,1,13-2981930,4400 Block Manchaca,10/25/2013,Oct,Fri,22,22:20:00,driver,TRUE,FALSE,motorcyclist - suspended license,NONE,Local Street
+Motor Vehicle,63,1,13-2991813,3800 N Capital of Texas,10/26/2013,Oct,Sat,21,21:45:00,passenger,,FALSE,ok,Driver,Local Street
+Pedestrian,64,1,13-3042320,7100 Block Ed Bluestein,10/31/2013,Oct,Thu,21,21:16:00,Pedestrian,,FALSE,unknown driver,Pedestrian,other highway
+Motor Vehicle,65,1,13-3161832,5900 Block S IH 35 NB,11/12/2013,Nov,Tue,22,22:25:00,driver,,FALSE,ok,NONE,IH-35
+Motor Vehicle,66,1,13-3280256,8200 block Old Bee Caves Road,11/24/2013,Nov,Sun,2,2:25:00,driver,,FALSE,ok,NONE,Local Street
+Motor Vehicle,67,1,13-3310258,FM 969 / Nixon Lane,11/27/2013,Nov,Wed,5,5:53:00,driver,,FALSE,ok,NONE,Local Street
+Pedestrian,68,1,13-3311692,6400 BLK FM 969,11/27/2013,Nov,Wed,21,21:58:00,Pedestrian,,FALSE,ok,Pedestrian,high speed roeadway
+Pedestrian,69,1,13-3330477,5104 Beverly Hills Dr,11/29/2013,Nov,Fri,9,9:44:00,Pedestrian,,FALSE,ok,NONE,Local Street
+Pedestrian,70,1,13-3411356,500 W. Ben White EB,12/7/2013,Dec,Sat,20,20:17:00,Pedestrian,,FALSE,ok,Pedestrian,other highway
+Motor Vehicle,71,2,13-3611885,7600 block FM 620,12/27/2013,Dec,Fri,23,23:30:00,driver,TRUE,FALSE,ok,Driver,Other High Speed Roadway
+Motor Vehicle,72,1,13-3641035,3400 W Parmer,12/30/2013,Dec,Mon,15,15:57:00,passenger,,FALSE,ok,NONE,Local Street
