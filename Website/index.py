@@ -32,3 +32,9 @@ st.markdown("""
 """)
 df = pd.read_csv('https://raw.githubusercontent.com/snowbawler/TrafficFatality/main/project_data.csv')
 st.write(df.head().drop('Unnamed: 0', axis=1))
+
+#Explore Analysis
+st.header('Exploratory Analysis')
+vis1, vis2, vis3, vis4, vis5, vis6 = st.tabs(['Visualization 1', '2', '3', '4', '5', '6'])
+vis1.write('Hypothesis 1: During a waxing gibbous, there are more occurrences of traffic fatalities in Austin, Texas.')
+vis1.image('/components/images/visual1.png')
