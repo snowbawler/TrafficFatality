@@ -3,22 +3,25 @@ import streamlit as st
 def sidebar():
     with st.sidebar:
         st.markdown(
-            "## How to use\n"
-            "1. Upload an IMG, JPEG, or PNG file📄\n"
-            "2. Scan and check Info tab for accuracy\n"
-            "3. Submit and check for fraud💬\n"
+            "## About\n"
+            "This project combines data from NASA and"
+            " the city of Austin to determine relationships"
+            " between moon phases, the day of the week, and"
+            " traffic fatalities.💬\n"
         )
         st.markdown("---")
-        st.markdown("# About")
+        st.markdown("# Goals")
         st.markdown(
-            "📖MediGuard allows you to upload healthcare bills and claims"
-            " to identify potential error or fraud."
+            "📖 The goal of this project is to determine" 
+            " relationships between the moon phases, days"
+            " of the week and traffic fatalities in Austin"
+            ", Texas."
         )
         st.markdown(
-            "Powered by unsupervised machine learning"
-            " trained with healthcare billing data."
-            " MediGuard autonomously identifies suspicious patterns"
-            " and anomalies in medical bills and reports cost accuracy."
+            "Austin's rapid growth has heightened traffic"
+            " congestion, increasing road risks. Identifying"
+            " causes of accidents is vital for policymakers and "
+            " law enforcement to enhance safety measures and infrastructure."
         )
         st.markdown("Made by [snowbawler](https://github.com/snowbawler)")
         st.markdown("---")
