@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🌚", 
     layout="wide",
     initial_sidebar_state="expanded"
-)
+    )
 
 sidebar()
 
@@ -36,5 +36,32 @@ st.write(df.head().drop('Unnamed: 0', axis=1))
 #Explore Analysis
 st.header('Exploratory Analysis')
 vis1, vis2, vis3, vis4, vis5, vis6 = st.tabs(['Visualization 1', '2', '3', '4', '5', '6'])
+
 vis1.write('Hypothesis 1: During a waxing gibbous, there are more occurrences of traffic fatalities in Austin, Texas.')
-vis1.image('/components/images/visual1.png')
+v1c1, v1c2 = vis1.columns(2)
+v1c1.image('components/images/visual1.png')
+v1c2.code(
+    'ggplot(project, aes(x = MoonPhaseCat)) +\n'
+        'geom_bar(fill = "mediumslateblue") +\n'
+        'labs(title = "Number of Fatalities by Moon Phase Category",\n'
+        '   x = "Moon Phase Category", \n'
+        '   y = "Count of Fatalities") +\n'
+        'theme(axis.text.x = element_text(angle = 45, hjust = 1))'
+)
+
+vis2.write('Hypothesis 2: High use roadways have significantly more traffic fatalities than any other roadways.')
+v2c1, v2c2 = vis2.columns(2)
+v2c1.image('components/images/visual2.png')
+v2c2.code(
+    'project %>%\n'
+    '   group_by(Type.of.road) %>%\n'
+    '   summarise(FatalitiesCount = n()) %>%\n'
+    '   ggplot(aes(x = reorder(Type.of.road, FatalitiesCount),\n' 
+    '       y = FatalitiesCount)) +\n'
+    '   geom_bar(fill = "aquamarine3", stat = "identity") +\n'
+    '   labs(title = "Number of Fatalities by Road Type",\n' 
+    '       x = "Road Type",\n'
+    '       y = "Count of Fatalities") +\n'
+    '   theme(axis.text.x = element_text(angle = 45, hjust = 1))'
+)
+
