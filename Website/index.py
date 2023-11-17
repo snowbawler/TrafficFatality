@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from components.sidebar import sidebar
+from components.visualizations import visuals
 
 st.set_page_config(
     page_title="Traffic Fatalities", 
@@ -34,96 +35,5 @@ df = pd.read_csv('https://raw.githubusercontent.com/snowbawler/TrafficFatality/m
 st.write(df.head().drop('Unnamed: 0', axis=1))
 
 #Explore Analysis
-st.header('Exploratory Analysis')
-vis1, vis2, vis3, vis4, vis5, vis6 = st.tabs(['Visualization 1', '2', '3', '4', '5', '6'])
-
-vis1.write('Hypothesis 1: During a waxing gibbous, there are more occurrences of traffic fatalities in Austin, Texas.')
-v1c1, v1c2 = vis1.columns(2)
-v1c1.image('components/images/visual1.png')
-v1c2.code(
-    'ggplot(project, aes(x = MoonPhaseCat)) +\n'
-        'geom_bar(fill = "mediumslateblue") +\n'
-        'labs(title = "Number of Fatalities by Moon Phase Category",\n'
-        '   x = "Moon Phase Category", \n'
-        '   y = "Count of Fatalities") +\n'
-        'theme(axis.text.x = element_text(angle = 45, hjust = 1))'
-)
-
-vis2.write('Hypothesis 2: High use roadways have significantly more traffic fatalities than any other roadways.')
-v2c1, v2c2 = vis2.columns(2)
-v2c1.image('components/images/visual2.png')
-v2c2.code(
-    'project %>%\n'
-    '   group_by(Type.of.road) %>%\n'
-    '   summarise(FatalitiesCount = n()) %>%\n'
-    '   ggplot(aes(x = reorder(Type.of.road, FatalitiesCount),\n' 
-    '       y = FatalitiesCount)) +\n'
-    '   geom_bar(fill = "aquamarine3", stat = "identity") +\n'
-    '   labs(title = "Number of Fatalities by Road Type",\n' 
-    '       x = "Road Type",\n'
-    '       y = "Count of Fatalities") +\n'
-    '   theme(axis.text.x = element_text(angle = 45, hjust = 1))'
-)
-v2data = {'R-squared value': ['0.0231 (low correlation, <0.2)'], 'Adjusted R-squared': [-0.005264], 'Standard Error': [0.2566465]}
-v2df = pd.DataFrame(v2data)
-vis2.table(v2df)
-
-vis3.write('Hypothesis 2: High use roadways have significantly more traffic fatalities than any other roadways.')
-v3c1, v3c2 = vis3.columns(2)
-v3c1.image('components/images/visual3.png')
-v3c2.code(
-    'project %>%\n'
-    '   group_by(Type.of.road) %>%\n'
-    '   summarise(FatalitiesCount = n()) %>%\n'
-    '   ggplot(aes(x = reorder(Type.of.road, FatalitiesCount),\n' 
-    '       y = FatalitiesCount)) +\n'
-    '   geom_bar(fill = "aquamarine3", stat = "identity") +\n'
-    '   labs(title = "Number of Fatalities by Road Type",\n' 
-    '       x = "Road Type",\n'
-    '       y = "Count of Fatalities") +\n'
-    '   theme(axis.text.x = element_text(angle = 45, hjust = 1))'
-)
-v3data = {'R-squared value': ['0.0231 (low correlation, <0.2)'], 'Adjusted R-squared': [-0.005264], 'Standard Error': [0.2566465]}
-v3df = pd.DataFrame(v3data)
-vis3.table(v3df)
-
-vis4.write('Hypothesis 2: High use roadways have significantly more traffic fatalities than any other roadways.')
-v4c1, v4c2 = vis4.columns(2)
-v4c1.image('components/images/visual4.png')
-v4c2.code(
-    'project %>%\n'
-    '   group_by(Type.of.road) %>%\n'
-    '   summarise(FatalitiesCount = n()) %>%\n'
-    '   ggplot(aes(x = reorder(Type.of.road, FatalitiesCount),\n' 
-    '       y = FatalitiesCount)) +\n'
-    '   geom_bar(fill = "aquamarine3", stat = "identity") +\n'
-    '   labs(title = "Number of Fatalities by Road Type",\n' 
-    '       x = "Road Type",\n'
-    '       y = "Count of Fatalities") +\n'
-    '   theme(axis.text.x = element_text(angle = 45, hjust = 1))'
-)
-
-v4data = {'R-squared value': ['0.0231 (low correlation, <0.2)'], 'Adjusted R-squared': [-0.005264], 'Standard Error': [0.2566465]}
-v4df = pd.DataFrame(v4data)
-vis4.table(v4df)
-
-vis5.write('Hypothesis 2: High use roadways have significantly more traffic fatalities than any other roadways.')
-v5c1, v5c2 = vis5.columns(2)
-v5c1.image('components/images/visual5.png')
-v5c2.code(
-    'project %>%\n'
-    '   group_by(Type.of.road) %>%\n'
-    '   summarise(FatalitiesCount = n()) %>%\n'
-    '   ggplot(aes(x = reorder(Type.of.road, FatalitiesCount),\n' 
-    '       y = FatalitiesCount)) +\n'
-    '   geom_bar(fill = "aquamarine3", stat = "identity") +\n'
-    '   labs(title = "Number of Fatalities by Road Type",\n' 
-    '       x = "Road Type",\n'
-    '       y = "Count of Fatalities") +\n'
-    '   theme(axis.text.x = element_text(angle = 45, hjust = 1))'
-)
-v5data = {'R-squared value': ['0.0231 (low correlation, <0.2)'], 'Adjusted R-squared': [-0.005264], 'Standard Error': [0.2566465]}
-v5df = pd.DataFrame(v5data)
-vis5.table(v3df)
-
+visuals()
 
