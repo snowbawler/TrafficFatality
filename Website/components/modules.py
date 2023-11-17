@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+
 def data():
     st.header('Data')
     col1, col2 = st.columns(2)
@@ -20,7 +21,7 @@ def data():
 
 def visuals():
     st.header('Exploratory Analysis')
-    vis1, vis2, vis3, vis4, vis5, vis6 = st.tabs(['Visualization 1', '2', '3', '4', '5', '6'])
+    vis1, vis2, vis3, vis4, vis5, vis6 = st.tabs(['Visualization: 1', '2', '3', '4', '5', '6'])
 
     vis1.write('Hypothesis 1: During a waxing gibbous, there are more occurrences of traffic fatalities in Austin, Texas.')
     v1c1, v1c2 = vis1.columns(2)
@@ -146,3 +147,66 @@ def visuals():
     v6data = {'R-squared value': ['0.0677567 (low correlation)'], 'Adjusted R-squared': [0.007612065], 'Standard Error': [0.2554623]}
     v6df = pd.DataFrame(v6data)
     v6c1.table(v3df)
+
+def modeling():
+    st.header("Modeling")
+    st.write('The task chosen was to predict whether or not a specific moon phase data affected driver behavior to cause traffic fatalities.')
+    st.write('To complete this task, a classification model is required. A Random Forest model would suffice given tasks where a single Decision Tree may be too sensitive to the specifics of the training data. In this way, contrasts in feature strengths will show greater and give decipherable information.')
+    st.write('Preprocessing the data required dropping class unrelated features such as concrete observations of the moon, “street names”, “extraneous date information”, and “case numbers”. It also involved mutating and grouping categorical values into numerical ones using a label encoder.')
+    st.code(
+        '#dropping unnecessary features\n'
+        'df = df.drop([\'Fatal.Crash.Number\', \'Unnamed: 0\', \'Case.Number\', \'Location\', \'DateTime\', \'Date\'], axis=1)\n'
+        '#encoding categorical variables\n'
+        'from sklearn.preprocessing import LabelEncoder\n'
+        'label_encoder = LabelEncoder()\n'
+        'df[\'Type\'] = label_encoder.fit_transform(df[\'Type\'])\n'
+        'df[\'Month\'] = label_encoder.fit_transform(df[\'Month\'])\n'
+        'df[\'Day\'] = label_encoder.fit_transform(df[\'Day\'])\n'
+        'df[\'Killed.driver.pass\'] = label_encoder.fit_transform(df[\'Killed.driver.pass\'])\n'
+        'df[\'Speeding\'] = label_encoder.fit_transform(df[\'Speeding\'])\n'
+        'df[\'Ran.Red.Light.or.Stop.Sign\'] = label_encoder.fit_transform(df[\'Ran.Red.Light.or.Stop.Sign\'])\n'
+        'df[\'DL.Status.incident\'] = label_encoder.fit_transform(df[\'DL.Status.incident\'])\n'
+        'df[\'Suspected.Impairment\'] = label_encoder.fit_transform(df[\'Suspected.Impairment\'])\n'
+        'df[\'Type.of.road\'] = label_encoder.fit_transform(df[\'Type.of.road\'])\n'
+        'df[\'MoonPhaseCat\'] = label_encoder.fit_transform(df[\'MoonPhaseCat\'])\n'
+    )
+    st.write('Then, assign “Moon Phase Category” as the target variable and all other columns as features; and use a random forest model to first split the data into 80% training data and 20% test data.')
+    st.code(
+        '''# Define the target variable and features
+target_variable = 'MoonPhaseCat'
+features = ['Type', 'Number.of.Fatalities', 'Month', 'Day', 'Hour',
+    'Killed.driver.pass', 'Ran.Red.Light.or.Stop.Sign',
+    'DL.Status.incident', 'Suspected.Impairment', 'Type.of.road',            
+    'Phase', 'Age', 'Diam', 'Dist', 'RA', 'Dec', 'Slon',
+    'Slat', 'Elon', 'Elat', 'AxisA']
+
+# Split the data into training and testing sets
+X = df[features]
+y = df[target_variable]
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)'''
+    )
+    st.write('Using the random forest model, we train and evaluate the accuracy of the model.')
+    st.code(
+        '''# Train and evaluate the Random Forest model
+rf_model = RandomForestClassifier(max_depth=6)
+rf_model.fit(X_train, y_train)
+rf_predictions = rf_model.predict(X_test)
+rf_accuracy = accuracy_score(y_test, rf_predictions)
+print(f"Random Forest Accuracy: {rf_accuracy:.4f}")'''
+    )
+    
+def modeling2():
+    st.write('The accuracy of the model results is extremely low. The model has difficulty in modeling the feature data with the correct moon classification, showing very little correlation between the training data features and driver behavior.')
+    st.write('Running a model with speeding as the target variable further explains the lack of correlation between traffic fatalities and moon phases. Analysis of features importance also gives insight to strong causal and outcome predictors of reckless behavior in traffic fatalities.')
+    
+def ethics():
+    st.header("Ethics")
+    st.markdown("""
+        - Unintended Consequences - (Reflect on Product) 
+            - The dip in traffic fatalities during first and last quarters does not reflect the overall dip in traffic fatalities, rather it reflects the data removed during preprocessing as a result of non-matching occurrences between corresponding moon phases and data-times recorded.
+            - It's crucial to consider unintended consequences that may arise from our analysis of traffic fatalities and moon phases. One unintended consequence could be the misinterpretation of correlation as causation. One may misinterpret the findings as the moon has definite effects on traffic fatalities and that fatal traffic events are more likely to occur when the moon is in waxing gibbous, or less likely during first and last quarters. This oversimplification could lead to misconceptions and a dismissal of other relevant factors influencing traffic accidents.
+        - People Affected - (Anticipate People)
+            - The unintended consequences may cause changes in public perception and behavior. If media outlets or individuals sensationalize the findings, there is a risk that some Austin drivers alter their behavior based on the perceived influence of the moon. For example, drivers might become overly cautious during certain moon phases or overly confident during others, leading to changes in driving patterns that could impact road safety.
+        - Continuous Improvement - (Act on Process)
+            - To mitigate potential misconstruction, our data needs to clearly communicate the lack of a significant correlation between moon phases and traffic fatalities. Descriptions should provide context on the limitations of the analysis and the importance of considering multiple factors influencing road safety; acknowledge uncertainties and the need for further research to validate any observed patterns.
+    """)
