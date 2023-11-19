@@ -25,7 +25,7 @@ def visuals():
 
     vis1.write('Hypothesis 1: During a waxing gibbous, there are more occurrences of traffic fatalities in Austin, Texas.')
     v1c1, v1c2 = vis1.columns(2)
-    v1c1.image('components/images/visual1.png')
+    v1c1.image('Website/components/images/visual1.png')
     v1c2.code(
         'ggplot(project, aes(x = MoonPhaseCat)) +\n'
             'geom_bar(fill = "mediumslateblue") +\n'
@@ -37,7 +37,7 @@ def visuals():
 
     vis2.write('Hypothesis 2: High use roadways have significantly more traffic fatalities than any other roadways.')
     v2c1, v2c2 = vis2.columns(2)
-    v2c1.image('components/images/visual2.png')
+    v2c1.image('Website/components/images/visual2.png')
     v2c2.code(
         'project %>%\n'
         '   group_by(Type.of.road) %>%\n'
@@ -56,7 +56,7 @@ def visuals():
 
     vis3.write('Hypothesis 3: During daylight hours, there are significantly less traffic fatalities than during nighttime hours.')
     v3c1, v3c2 = vis3.columns(2)
-    v3c1.image('components/images/visual3.png')
+    v3c1.image('Website/components/images/visual3.png')
     v3c2.code(
         'project %>%\n'
         '   group_by(Type.of.road) %>%\n'
@@ -75,7 +75,7 @@ def visuals():
 
     vis4.write('Hypothesis 4: When the driver is suspected to be impaired, more traffic fatalities occur.')
     v4c1, v4c2 = vis4.columns(2)
-    v4c1.image('components/images/visual4.png')
+    v4c1.image('Website/components/images/visual4.png')
     v4c2.code(
         'project$Suspected.Impairment <- fct_reorder(project$Suspected.Impairment,\n'
         'project$Number.of.Fatalities,\n' 
@@ -109,7 +109,7 @@ def visuals():
 
     vis5.write('Hypothesis 5: Proportionally, more traffic fatalities occur during the weekend than during weekdays in Austin, Texas.')
     v5c1, v5c2 = vis5.columns(2)
-    v5c1.image('components/images/visual5.png')
+    v5c1.image('Website/components/images/visual5.png')
     v5c2.code(
         'project$Number.of.Fatalities <- as.numeric(project$Number.of.Fatalities)\n'
         'project <- project %>%\n'
@@ -133,7 +133,7 @@ def visuals():
 
     vis6.write('Hypothesis 6: Those with expired or suspended licenses are less likely to be involved in traffic fatalities.')
     v6c1, v6c2 = vis6.columns(2)
-    v6c1.image('components/images/visual6.png')
+    v6c1.image('Website/components/images/visual6.png')
     v6c2.code(
         'ggplot(project, aes(x = DL.Status.incident, fill = DL.Status.incident)) +\n'
         '    geom_bar(stat = "count", position = "dodge", color = "black") +\n'
