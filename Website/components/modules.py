@@ -210,3 +210,9 @@ def ethics():
         - Continuous Improvement - (Act on Process)
             - To mitigate potential misconstruction, our data needs to clearly communicate the lack of a significant correlation between moon phases and traffic fatalities. Descriptions should provide context on the limitations of the analysis and the importance of considering multiple factors influencing road safety; acknowledge uncertainties and the need for further research to validate any observed patterns.
     """)
+    
+def discussion():
+    pass
+
+def conclusion():
+    pass
