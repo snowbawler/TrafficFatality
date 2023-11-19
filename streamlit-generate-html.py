@@ -1,7 +1,8 @@
 import streamlit as st
 
 # Import your main Streamlit app
-from your_app import main  # Replace with your actual Streamlit app filename
+from Website import index
+from index import main  # Replace with your actual Streamlit app filename
 
 st.set_page_config(layout="wide")
 
